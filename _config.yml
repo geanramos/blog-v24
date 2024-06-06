@@ -1,0 +1,92 @@
+# Site settings
+title: The memories # site title
+description: >- # site description
+  📚 O lugar onde as histórias ganham vida e a procrastinação é permitida!<br>
+  💻📖 Junte-se a nós para romances arrebatadores, reflexões profundas e muitos risos. 😊
+lang: pt-BR # default lang
+timezone: America/Belém # set your timezone
+image: https://source.unsplash.com/random/600x400/?love-couple # This image used for Open Graph more info https://ogp.me/
+repo: https://www.instagram.com/geanramus # site repo [optional]
+mode: light # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Gean Ramos # author name
+  bio: >- # tell to the world
+    📚 O lugar onde as histórias ganham vida e a procrastinação é permitida!<br>
+    💻📖 Junte-se a nós para romances arrebatadores, reflexões profundas e muitos risos. 😊
+  username: geanramos # general username
+  github: geanramos # github username
+  twitter: geanramos # twitter username
+  facebook: geanramoss # facebook username
+  email: geanramos@hotmail.com.br # email adress
+  avatar: https://2.gravatar.com/avatar/bdd3a9aa9878447e26ba6191f221487233264cf3915c0823af839cc5af5c9439?size=85 # change with your own avatar
+
+# URL settings
+url: "http://klise.50x.com.br" #
+baseurl:
+permalink: /:title
+google_analytics: # leave it blank if not wish
+fb_appid:
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: true
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 10
+
+# Build settings
+# theme: klise
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - lighthouse.png
+  - klise-*.gem
+  - klise.gemspec
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles

@@ -1,0 +1,16 @@
+- title: Início
+  url: /
+  external: false
+
+- title: Posts
+  url: /arquivo/
+  external: false
+
+- title: Sobre
+  url: /sobre/
+  external: false # set true if you using external link, see below
+
+# Example:
+# - title: Instagram
+#   url: https://instagram.com/geanramus
+#   external: true
