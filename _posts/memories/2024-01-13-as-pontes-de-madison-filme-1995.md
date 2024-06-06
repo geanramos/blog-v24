@@ -1,7 +1,7 @@
 ---
 title: "As Pontes de Madison - Filme 1995"
 date: "2024-01-13"
-tags: [blog]
+tags: [memories]
 img: "https://ci3.googleusercontent.com/meips/ADKq_NbN-rjv_jg39fcrnAZmP9oJB9K-MaQg_T_0oSJcXvEcVD_nGI9ycsWRga46VgNI3wSyOZZjmfP6JyUgznVtTJqdhV-D0pLOrywkOKsdsEfYs1n7d0HKOl7gBFhJ8qtXTEmW_OFqOK7zSNYkPn7MU6iRDSM1C32Mz9vkFcrXCexIsc4jwUIwzVzycjnxcgRx1Z-SO8k5nGVRsbvpnLgOemPSYd3WESDlMtu7r6faVgdRdxqdTsdH4a_c33iT0teioWxK1tF6IIkt6EkbuONKmd0Df9pZ9OnhjFxeK9DVf_engtYw0cZqx85D2w=s0-d-e1-ft"
 ---
 

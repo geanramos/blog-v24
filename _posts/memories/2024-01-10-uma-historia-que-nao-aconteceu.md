@@ -1,7 +1,7 @@
 ---
 title: "Uma história que não aconteceu"
 date: "2024-01-10"
-tags: [blog]
+tags: [memories]
 img: "https://ci3.googleusercontent.com/meips/ADKq_Nbn0ILrmuHc4IndneRmhaDgIZEF16gQ1E4KtaAL48CNqNN68copQMHiww6Q9sSDVnVsD5ErMU_og2_xBXJGur9bAdnf6qpl0svjsQZ4-Q2dvHDIYd5VFukkF7T-dISbTS9nqHUjfEp0_WteBL44pmfkFFPuUwqacrf6LpDQIgd_sQ_1RpSdmHjyR3ubXJyjCtpF59pj9VSkcOcvESVMsEzucorAWSfRRNOwinTA05xRMoOgyt2E8RBGdqp4LTRxvDyL5sWdrnzWo05BRn72oRLN09vIyM-RJb--hc5tYEg-t2260t_rg6DLuw=s0-d-e1-ft"
 ---
 
@@ -18,7 +18,7 @@ E foi nesse cenário que ela acordou numa segunda-feira, dia 27 de novembro. Dat
 
 A junção dos fatores a levou mais uma vez ao passado. Mais especificamente, em  **uma história que aconteceu há 33 anos**  — mas que a Paula ainda consegue tocar e sentir de muitas maneiras.
 
-Embora a vontade de entrar em contato com um dos personagens dessa história fosse enorme, ela recuou. E resolveu escrever um e-mail pro the stories.
+Embora a vontade de entrar em contato com um dos personagens dessa história fosse enorme, ela recuou. E resolveu escrever um e-mail pro the memories.
 
 -   Segundo a Paula, de certa forma, sua escrita fará com que essa história não morra. Em suas palavras,  _“colocar pra fora deixa as memórias vivas”._
     

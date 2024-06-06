@@ -3,7 +3,7 @@ title: "aceitando a sua incompletude."
 date: "2022-08-01"
 description: "aceitando a sua incompletude."
 tags: [memories]
-categories: [stories]
+categories: [memories]
 ---
 
 ![Borboleta bebe néctar com probóscide](https://i1.wp.com/acegif.com/wp-content/uploads/butterfly-animation-44.gif)

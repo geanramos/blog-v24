@@ -3,7 +3,7 @@ title: Livro de Paulo Coelho vai virar minissérie na Netflix
 date: 2024-06-05 16:49:47 -03:00
 description: Netflix vai adaptar livro de Paulo Coelho e lançar minissérie dirigida por Fernando Meirelles.
 categories: notas
-tags: [netflix]
+tags: [notas]
 image: "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2024/06/06/339828401-i902239.jpeg"
 ---
 

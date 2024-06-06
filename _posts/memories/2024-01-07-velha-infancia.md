@@ -1,7 +1,7 @@
 ---
 title: "Velha Infância"
 date: "2024-01-07"
-tags: [blog]
+tags: [memories]
 img: "https://ci3.googleusercontent.com/meips/ADKq_NZpRlq8GokhGNvnALMzhp6uN5xgc6iPg61qFZsigDsb1gJY2yUva8-IL7uA-co4qJla06l8ptkwmfm2hRWO2oIWZCzWX4pD0Bqhhhtcj8_sBlohAQzKNx_2BlZOJvS01uiWURvZhqwgFUsyB9Xqb4Qt7G2M68MszIf4Y3FC5LQjsPG53zF-lNo0z-Raf_uyBVCOINJE1GhI_DjeP0yhBhl6HH0I3Ciu4J6RWMllGaUL8k1UwGtqvo8lbdv5YRsmLCl5v20RDBZmAPAhdLNkv94Bx2v4Fkup5yWtMtxEjIT4VumpimpTFiHrdw=s0-d-e1-ft"
 ---
 

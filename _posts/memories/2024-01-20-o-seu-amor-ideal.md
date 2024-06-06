@@ -1,7 +1,7 @@
 ---
 title: "o seu amor ideal"
 date: "2024-01-20"
-tags: [blog]
+tags: [memories]
 img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyUgjWPw0VO3_i6S-jauVNx6EWM8TCUbWZ9ywX1SVij342LyVkm8KA8s2m6oHXECcXr8i4d2JlXtGD_2C5A1kFKZWHJdqmrJPdgwf9xB12NZVYHIT09gnJpAdc6ZC6tTK9If2GDiheEqzjk7RYpli7xvbLIH9p2yvdvCmeGcbck5SQ9rgYcSp5hNuW7tAn/s736/unnamed%20%281%29.jpg"
 ---
 

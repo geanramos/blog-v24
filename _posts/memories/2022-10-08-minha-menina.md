@@ -2,7 +2,7 @@
 title: "Minha Menina"
 date: "2022-10-08"
 description: "Era uma manhã chuvosa de terça-feira, e a professora Luana estava tendo mais um dia corrido"
-tags: [stories]
+tags: [memories]
 categories: [memories]
 ---
 

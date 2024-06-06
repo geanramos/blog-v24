@@ -1,7 +1,7 @@
 ---
 title: "Estante da vida"
 date: "2023-11-05"
-tags: [blog]
+tags: [memories]
 img: "https://ci3.googleusercontent.com/meips/ADKq_Na8du5mDcjeMYovFl4IylGAu9zIXkRS7R7pCrW2JqhUvsC4kOJdzN7izQFPq7zTAwTBxbytqzApqB1M9GiVmOdRlrgyrFCymhA8v45Cn0rMmxI5IcPtv5u295dT_RpRJQnhypmnVR5nGhQXpFb1h1X2lPngFfUDRTYG6_QQ14CH2RER-vDWW6ML2JXLhrsqKvHpumu5DM6gUMTi5g8z-VjjQ1x1_X8JxcG5KC5St7L8OvLiaUOLlvnfN-APmfEqmk-WCt98LJbo7n9RXMNC3AGBwf1kVgUp5GzkMxxAw3Y=s0-d-e1-ft"
 ---
 

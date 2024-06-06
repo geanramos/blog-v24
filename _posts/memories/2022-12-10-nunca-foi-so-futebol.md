@@ -3,7 +3,7 @@ title: "Nunca foi só futebol"
 date: "2022-12-10"
 description: "Nunca foi só futebol"
 tags: [memories]
-categories: [stories]
+categories: [memories]
 ---
 
 # é, brasil...

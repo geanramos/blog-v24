@@ -3,7 +3,7 @@ title: "Amor é casa"
 date: "2022-07-17"
 description: "Amor é casa"
 tags: [memories]
-categories: [stories]
+categories: [memories]
 ---
 
 ![Amor é casa](https://i1.wp.com/img.freepik.com/vetores-premium/esboco-de-um-casal-apaixonado-sorrindo-arte-de-linha-em-estilo-minimalista-arte-moderna_348404-494.jpg?resize=400,255)

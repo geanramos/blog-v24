@@ -3,7 +3,7 @@ title: Top 300 discos mais icônicas da história
 date: 2024-06-05 16:49:47 -03:00
 description: Revista americana Paste elegeu os 300 melhores discos da história da música
 categories: notas
-tags: [musica]
+tags: [notas]
 image: "https://img.pastemagazine.com/wp-content/uploads/2024/06/02030223/30C910D1-AA89-40A3-AD94-9AD54DDEAFB9.jpeg"
 ---
 

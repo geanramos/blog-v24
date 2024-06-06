@@ -3,7 +3,7 @@ title: Ação judicial contra X (cancelada) 👶
 date: 2024-06-05 22:00:00 -03:00
 description: A Austrália cancela a ação judicial contra X por retirar um vídeo do ataque a uma igreja.
 categories: notas
-tags: [notas, twitter]
+tags: [notas]
 image: https://i1.wp.com/img.odcdn.com.br/wp-content/uploads/2024/04/x_twitter_musk.jpg?resize=800,400
 ---
 

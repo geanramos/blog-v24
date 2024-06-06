@@ -3,7 +3,7 @@ title: "Amor e futebol"
 date: "2022-12-10"
 description: "Amor e futebol"
 tags: [memories]
-categories: [stories]
+categories: [memories]
 ---
 
 ![Amor e futebol](https://i1.wp.com/i.ibb.co/bbcQLMb/brincalh-o-jovem-fam-lia-1.jpg?resize=800,450)

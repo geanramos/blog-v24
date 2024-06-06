@@ -3,7 +3,7 @@ title: "Uma mente sem lembranças"
 date: "2022-07-24"
 description: "Uma mente sem lembranças"
 tags: [memories]
-categories: [stories]
+categories: [memories]
 ---
 
 ![Uma mente sem lembranças](https://i1.wp.com/i.gifer.com/M1l7.gif?resize=400,225)

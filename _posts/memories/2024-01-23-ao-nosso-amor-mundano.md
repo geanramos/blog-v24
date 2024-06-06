@@ -1,7 +1,7 @@
 ---
 title: "Ao nosso amor mundano"
 date: "2024-01-23"
-tags: [blog]
+tags: [memories]
 img: "https://ci3.googleusercontent.com/meips/ADKq_NYp1EY2252BDLgRpr8jx9_0BgGRYljiUbIYUEtHIDOT909vmgIVkGZDVBPKiZ1_BRcomvpVYlHBDfPkzpIv9nr7Z1KRE2V9yKuRTlLsj43xgyuCarumR-KLc4rBGttijsJ7nxGHUGnBDy0jFDQFD4cvidaSmtvyO-fHZ__nKHGyB2v7g83emA2sA5h3B0KVLcmiw8fuFJ02Ir4vWXDNXOC7N_o6aP51JlofjR0ylyTb-6YDG5olYmNHGBaCsPcbf8YHLWm6rQnxPVOAQmgtwWkkcN_RdMF80pNf7-Ul=s0-d-e1-ft"
 ---
 

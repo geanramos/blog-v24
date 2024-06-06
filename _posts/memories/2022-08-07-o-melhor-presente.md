@@ -3,7 +3,7 @@ title: "O melhor presente"
 date: "2022-08-07"
 description: "Como dizia Hemingway, de todos os presentes da natureza para a raça humana."
 tags: [memories]
-categories: [stories]
+categories: [memories]
 ---
 
 ![](https://i1.wp.com/64.media.tumblr.com/168648ea83273662610a7495a1f35bb6/tumblr_mn54pfedrl1qb61u2o1_640.jpg?resize=400,225)

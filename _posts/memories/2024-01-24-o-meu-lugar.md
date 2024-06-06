@@ -1,7 +1,7 @@
 ---
 title: "O meu lugar"
 date: "2024-01-24"
-tags: [blog]
+tags: [memories]
 img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIWo2JpqiXkX407uLm5OiKHpDUWGjsDBf7H6280zA0VGAYEqAAnOpikqXl80mc95T9ULaMyh97imlKV3n4ulGTe-2-q2uclAYeG-a7mSoja3zg9d_bFT_SQw3YJM8wwgy5XBsYqU_TGA2-57OFQW3BNyE-5HHcI0tTFmIRALZxEQBsqHUeZjLbLp-eE0vB/s1200/unnamed.jpg"
 ---
 

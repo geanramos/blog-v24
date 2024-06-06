@@ -1,7 +1,7 @@
 ---
 title: "A família que a gente escolher"
 date: "2023-12-25"
-tags: [blog]
+tags: [memories]
 img: "https://substack-post-media.s3.amazonaws.com/public/images/e74211d0-9006-4358-9c64-c61c5af99165_640x421.jpeg"
 ---
 

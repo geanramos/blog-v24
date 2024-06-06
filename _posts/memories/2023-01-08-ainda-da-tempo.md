@@ -1,7 +1,7 @@
 ---
 title: "Ainda dá tempo"
 date: "2023-01-08"
-tags: [blog]
+tags: [memories]
 img: "https://images.squarespace-cdn.com/content/v1/5a80eacba9db09c9680c59e5/1589313209828-TTB9ILB9SOHHD2LBGKX9/BEST-114.jpg"
 ---
 

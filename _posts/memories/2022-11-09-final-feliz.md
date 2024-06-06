@@ -2,7 +2,7 @@
 title: "Final feliz"
 date: "2022-11-09"
 description: "Quando estava no final do ensino médio, a Ana Clara conheceu o Alexandre. Ela lembra como se fosse ontem."
-tags: [stories]
+tags: [memories]
 categories: [memories]
 ---
 

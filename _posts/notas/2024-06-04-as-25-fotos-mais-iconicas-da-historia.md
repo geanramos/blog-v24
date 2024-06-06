@@ -3,7 +3,7 @@ title: Top 25 fotos mais icônicas da história
 date: 2024-06-04 16:49:47 -03:00
 description: The New York Times elege as 25 fotografias mais significativas desde 1955.
 categories: notas
-tags: [fotografia, musica]
+tags: [notas]
 image: "https://i.ytimg.com/vi/YTTNdJC89QQ/maxresdefault.jpg"
 ---
 

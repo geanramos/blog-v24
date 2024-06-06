@@ -1,7 +1,7 @@
 ---
 title: "Trago seu amor de volta"
 date: "2023-12-30"
-tags: [blog]
+tags: [memories]
 img: "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*w3MvZcahejZ6IHY6CiH1LQ.jpeg"
 ---
 

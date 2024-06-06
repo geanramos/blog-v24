@@ -2,7 +2,7 @@
 title: "O amor mora nos detalhes"
 date: "2022-11-10"
 description: "Luciana tinha apenas 18 anos quando conheceu José. Jovens, livres e desimpedidos, viveram o que costumamos chamar de amor de verão"
-tags: [stories]
+tags: [memories]
 categories: [memories]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Um certo milagre"
 date: "2024-01-06"
-tags: [blog]
+tags: [memories]
 img: "https://ci3.googleusercontent.com/meips/ADKq_NY5LIrwc4YBfVlkbvdWKVPvKujaFlaAhzonJnYw7YiSHgBJjmRBbQEpDgMCDWFKRv3WbWUE8UpDeUl__0FSUFCjP4zRS-HP-S8c-mfndERnLcmeB_g6a2vPPJbsx02WiXNS7bZJi-FhbKGvIQxHOot_0eOur_zlWr6_fZCsfDH4HGvFnoX5or_35hNN7k5gkKbp9-Hs9hHBR_Uvk7AOyU3_IGppUvZIxozs9RLTXKSpnG-UDtsRTQpfffXWMxQEPJZfPEcWVrf0hR2ywuJphOcaZE3iZiH5UwVhB6JHV5ksqPe3tW8nQMRZKg=s0-d-e1-ft"
 ---
 

@@ -3,7 +3,7 @@ title: "A beleza do começo"
 date: "2022-07-24"
 description: "A beleza do começo"
 tags: [memories]
-categories: [stories]
+categories: [memories]
 ---
 
 
