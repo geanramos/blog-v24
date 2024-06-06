@@ -20,6 +20,3 @@ Então, se você está pronto para ser transportado por **romances arrebatadores
 E hey, não se esqueça de trazer seus próprios *lanches emocionais* - você vai precisar deles!
 
 Junte-se à nossa **comunidade de procrastinadores conscientes** e venha criar suas próprias memórias *(e talvez até justificar aquele segundo pedaço de bolo)*. Porque no *The Memories*, nós levamos a sério o lema: "**viver, amar, rir... e adiar todas as responsabilidades!**"
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
