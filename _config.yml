@@ -1,8 +1,8 @@
 # Site settings
 title: The memories # site title
 description: >- # site description
-  📚 O lugar onde as histórias ganham vida e a procrastinação é permitida!<br>
-  💻📖 Junte-se a nós para romances arrebatadores, reflexões profundas e muitos risos. 😊
+  O lugar onde as histórias ganham vida!<br>
+  Junte-se a nós para romances arrebatadores, reflexões profundas e muitos mais. 😊
 lang: pt-BR # default lang
 timezone: America/Belém # set your timezone
 image: https://source.unsplash.com/random/600x400/?love-couple # This image used for Open Graph more info https://ogp.me/
@@ -11,12 +11,12 @@ mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: The memories # author name
+  name: Gean Ramos # author name
   bio: >- # tell to the world
-    📚 O lugar onde as histórias ganham vida e a procrastinação é permitida!<br>
-    💻📖 Junte-se a nós para romances arrebatadores, reflexões profundas e muitos risos. 😊
+    O lugar onde as histórias ganham vida!<br>
+    Junte-se a nós para romances arrebatadores, reflexões profundas e muitos mais. 😊
   username: geanramos # general username
-  github: geanramos # github username
+  github:  # github username
   twitter: geanramos # twitter username
   facebook: geanramoss # facebook username
   email: geanramos@hotmail.com.br # email adress
@@ -26,7 +26,7 @@ author:
 url: "https://geanramos.com.br" #
 baseurl:
 permalink: /:title
-google_analytics: # leave it blank if not wish
+google_analytics: G-TZBPFV014K # leave it blank if not wish
 fb_appid:
 
 # Collection setting

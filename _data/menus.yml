@@ -2,14 +2,14 @@
   url: /
   external: false
 
-- title: Arquivos
-  url: /archive/
-  external: false
-
 - title: Sobre
   url: /about/
   external: false # set true if you using external link, see below
 
+- title: Arquivos
+  url: /archive/
+  external: false
+  
 - title: Tags
   url: /tags/
   external: false # set true if you using external link, see below
