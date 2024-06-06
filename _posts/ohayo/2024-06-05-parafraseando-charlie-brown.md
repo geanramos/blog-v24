@@ -7,8 +7,6 @@ tags: [ohayo]
 image: "https://media.beehiiv.com/uploads/asset/file/c683b349-6fab-4561-b0d5-a3d4931956fe/IMG_4229.jpeg"
 ---
 
-## parafraseando charlie brown
-
 **é simples**
 
 se você não perguntar, a resposta é sempre não. se não tentar, com certeza não vai conseguir. é realmente simples assim.
