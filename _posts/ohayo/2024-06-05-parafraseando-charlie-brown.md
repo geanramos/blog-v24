@@ -1,5 +1,5 @@
 ---
-title: Parafraseando Charlie Brown: O Guia Simples para Fazer Acontecer
+title: Parafraseando Charlie Brown - O Guia Simples para Fazer Acontecer
 date: 2024-06-05 15:10:47 -03:00
 description: Quer saber o segredo da vida? Spoiler - Não é ficar sentado no sofá esperando que as coisas aconteçam. Inspirado em Charlie Brown, este texto é a dose de realidade que você precisa. Descubra como a arte de fazer perguntas pode mudar seu destino, mesmo que sua maior conquista até agora seja lembrar de tirar o lixo na terça-feira.
 categories: ohayo
