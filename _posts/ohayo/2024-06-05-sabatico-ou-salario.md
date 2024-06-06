@@ -41,7 +41,7 @@ Além disso, comece a fazer as coisas que você deseja no seu tempo livre, sair 
 
 **— Gean Ramos**
 
-🦋 Para enviar um desabafo,  [clique aqui](https://forms.gle/acD7B2tqXNG4G7XB6). Queremos te ajudar em uma próxima edição :)
+🦋 Para enviar um desabafo,  [clique aqui](https://forms.gle/zezBcJu3XH8MM3sq7). Queremos te ajudar em uma próxima edição :)
 
 
 Tags: Sabático, carreira, trabalho com a família, dilemas da vida, humor, tomada de decisão, equilíbrio.
