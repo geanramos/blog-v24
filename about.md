@@ -1,6 +1,6 @@
 ---
 title: Sobre
-permalink: /sobre
+permalink: /about/
 layout: page
 excerpt: Bem-vindo ao 'The Memories' - o lugar onde as histórias de amor ganham vida e os suspiros são transformados em palavras.
 image: "https://i1.wp.com/conteudo.imguol.com.br/2012/05/01/ilustracao-para-materia-de-comportamento-sobre-psicopatas-corporativos-1335901965188_615x300.jpg"

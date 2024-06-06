@@ -7,8 +7,6 @@ tags: [notas, twitter]
 image: https://i1.wp.com/img.odcdn.com.br/wp-content/uploads/2024/04/x_twitter_musk.jpg?resize=800,400
 ---
 
-![A Austrália cancela a ação judicial contra X por retirar um vídeo do ataque a uma igreja.](https://i1.wp.com/img.odcdn.com.br/wp-content/uploads/2024/04/x_twitter_musk.jpg?resize=800,400)
-
 Nesta quarta-feira, a Austrália informou que decidiu encerrar o [processo contra a rede social X](https://www.cnbc.com/2024/06/05/australia-drops-case-against-elon-musks-x-over-church-stabbing-videos.html), que tinha como objetivo remover as imagens de um esfaqueamento ocorrido em uma [igreja de Sydney](https://www.nbcnews.com/news/world/sydney-stabbing-bishop-injured-australia-rcna147792) em abril. 
 
 A comissária do regulador de segurança online, **Julie Inman-Grant**, justificou a interrupção da ação afirmando que várias questões foram consideradas e que essa decisão provavelmente traria benefícios para a segurança online de todos os australianos, especialmente as crianças. 
