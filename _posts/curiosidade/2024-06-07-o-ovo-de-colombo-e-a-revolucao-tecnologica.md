@@ -61,22 +61,3 @@ A revolução industrial acelerou esse processo, criando um ciclo de avanços co
 Então, da próxima vez que usar seu smartphone ou jogar um videogame, lembre-se do Ovo de Colombo e das milhares de pequenas ideias que nos trouxeram até aqui. 
 
 Afinal, você sabia que até as ideias mais simples podem mudar o mundo?
-
-4o
-
-escreva e titulos. e 2 descricoes com no maximo 160 caracteres para por no blog
-
-ChatGPT
-
-### Títulos
-
-1.  **O Ovo de Colombo e a Revolução Tecnológica**
-2.  **Como Pequenas Ideias Moldaram Nossas Grandes Invenções**
-3.  **Da Pólvora aos Smartphones: A Jornada das Invenções**
-4.  **Você Sabia? A História Escondida por Trás das Grandes Tecnologias**
-5.  **Inovações ao Longo dos Séculos: O Efeito Domino da Tecnologia**
-
-### Descrições
-
-1.  Descubra como uma simples ideia de Colombo ilustra a evolução das tecnologias que transformaram nossa vida ao longo dos séculos.
-2.  Entenda por que cada invenção moderna dependeu de séculos de avanços acumulativos e como elas mudaram nosso mundo.
