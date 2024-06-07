@@ -1,5 +1,5 @@
 ---
-title: A História Chocante da Mãe Mais Jovem do Mundo: Lina Medina aos 5 Anos
+title: A História Chocante da Mãe Mais Jovem do Mundo, Lina Medina aos 5 Anos
 date: 2024-06-06 15:11:47 -03:00
 description: Lina Medina se tornou a mãe mais jovem da história aos 5 anos devido à puberdade precoce, dando à luz aos 7 meses de gravidez. Saiba mais sobre este chocante e raro caso médico.
 categories: wow
