@@ -20,6 +20,8 @@ Após ser examinada, uma verdade chocante foi descoberta: Lina estava grávida d
 
 Ela deu à luz um menino em 14 de maio de 1939, por meio de cesariana, pois sua pelve era muito pequena. A criança nascida estava completamente saudável e foi chamada de Gerardo. No entanto, a identidade do pai da criança permaneceu um mistério.
 
+![](https://i.imgur.com/X4cjcqO.jpeg?2)
+
 Gerardo faleceu aos 40 anos de idade devido a mielofibrose, no entanto, Lina Medina ainda está viva (na data da publicação) e agora tem 89 anos.
 
 Fonte: [https://pt.wikipedia.org/wiki/Lina_Medina](https://pt.wikipedia.org/wiki/Lina_Medina)
