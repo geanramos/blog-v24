@@ -8,11 +8,12 @@ image: "https://i.imgur.com/SJ2EIhk.jpeg"
 ---
 
 ![Filosofando](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
-![O Ovo de Colombo e a Corrida Tecnológica da Humanidade](https://i.imgur.com/SJ2EIhk.jpeg)
 
 Você já parou para pensar por que só nos últimos séculos começamos a desenvolver tecnologias avançadas que tornam nossa vida tão confortável? Afinal, a civilização humana existe há pelo menos dez mil anos! Para entender esse fenômeno, vamos embarcar em uma jornada divertida, começando com uma lenda fascinante sobre Cristóvão Colombo.
 
 ### O Ovo de Colombo
+
+![O Ovo de Colombo e a Corrida Tecnológica da Humanidade](https://i.imgur.com/SJ2EIhk.jpeg)
 
 Imagine-se na Espanha do século XV, onde Colombo, desesperado por investidores para sua empreitada de chegar às Índias navegando pelo Ocidente, enfrenta céticos comerciantes e sábios. A ideia de dar a volta ao mundo era revolucionária e causou polêmica. "Se fosse possível, outros já o teriam feito", diziam os opositores. Colombo então propôs um desafio simples: fazer um ovo ficar de pé.
 
