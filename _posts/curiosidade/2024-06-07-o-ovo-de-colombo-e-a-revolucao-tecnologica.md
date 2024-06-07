@@ -7,9 +7,6 @@ tags: [wow]
 image: "https://i.imgur.com/SJ2EIhk.jpeg"
 ---
 
-> Você Sabia? 
-> O Ovo de Colombo e a Corrida Tecnológica da Humanidade
-
 ![Filosofando](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
 ![O Ovo de Colombo e a Corrida Tecnológica da Humanidade](https://i.imgur.com/SJ2EIhk.jpeg)
 
