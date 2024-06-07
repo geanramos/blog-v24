@@ -6,7 +6,7 @@ categories: wow
 tags: [wow]
 image: "https://i.imgur.com/E0SuQ9m.jpeg?crianca"
 ---
-![DESABAFO](https://cdn.jsdelivr.net/gh/geanramos/files/img/desabafo.png)
+![você sabia?](https://cdn.jsdelivr.net/gh/geanramos/files/img/voce-sabia.png)
 
 Qual foi o maior fato encoberto (abafado) da história da humanidade?
 
