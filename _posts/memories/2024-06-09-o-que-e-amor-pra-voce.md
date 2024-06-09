@@ -5,7 +5,6 @@ description: Emocionantes definições de amor por diferentes idades revelam sua
 tags: [memories]
 img: "https://substack-post-media.s3.amazonaws.com/public/images/e5505b3d-b61d-44e7-9562-3c8ddb55c0d8_640x625.jpeg"
 ---
-
 ![filosofando](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
 
 Tentando buscar uma definição para o sentimento que move o mundo, perguntamos para alguns leitores **“o que era amor”.** Essas foram as respostas:
