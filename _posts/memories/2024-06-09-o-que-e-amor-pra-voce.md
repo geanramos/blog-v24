@@ -1,10 +1,12 @@
 ---
-title: "O que é amor pra você?"
-date: "2024-06-09T11:48:00-03:00"
+title: O que é amor pra você?
+date: 2024-06-09T11:48:00-03:00
 description: Emocionantes definições de amor por diferentes idades revelam sua natureza complexa, desde a liberdade até a felicidade na felicidade do outro.
+categories: memories
 tags: [memories]
-img: "https://i.pinimg.com/564x/12/f7/8c/12f78c80e1f144211034d4ee294e176e.jpg"
+image: "https://i.pinimg.com/564x/12/f7/8c/12f78c80e1f144211034d4ee294e176e.jpg"
 ---
+
 ![filosofando](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
 
 
