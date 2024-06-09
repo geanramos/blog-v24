@@ -7,7 +7,7 @@ img: "https://substack-post-media.s3.amazonaws.com/public/images/e5505b3d-b61d-4
 ---
 ![filosofando](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
 
-Tentando buscar uma definição para o sentimento que move o mundo, perguntamos para alguns leitores **“o que era amor”.** Essas foram as respostas:
+Tentando buscar uma definição para o sentimento que move o mundo, perguntamos para alguns leitores **"o que era amor".** Essas foram as respostas:
 
 -   **Eduardo, 19 anos:** _**“**__Quando nada mais importa na presença daquela pessoa”._
     
