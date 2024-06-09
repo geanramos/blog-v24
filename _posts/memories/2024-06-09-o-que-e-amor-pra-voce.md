@@ -7,11 +7,12 @@ img: "https://substack-post-media.s3.amazonaws.com/public/images/e5505b3d-b61d-4
 ---
 ![filosofando](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
 
-Tentando buscar uma definição para o sentimento que move o mundo, perguntamos para alguns leitores **"o que era amor".** Essas foram as respostas:
 
--   **Eduardo, 19 anos:** _**“**__Quando nada mais importa na presença daquela pessoa”._
+Tentando buscar uma definição para o sentimento que move o mundo, perguntamos para alguns leitores **“o que era amor”.** Essas foram as respostas:
+
+-   **Eduardo, 19 anos:**  “_Quando nada mais importa na presença daquela pessoa”._
     
--   **Helena, 80 anos: “**_Amor é o combustível da vida - que nos move por todos os nossos dias. Que nos faz sentir humanos, filhos de Deus”._
+-   **Helena, 80 anos:** _"Amor é o combustível da vida - que nos move por todos os nossos dias. Que nos faz sentir humanos, filhos de Deus”._
     
 -   **Samuel, 28 anos:** _“Amor pra mim é um sentimento profundo que mexe com a gente, que nos faz perder a noção do tempo e querer estar com o outro a todo momento, mesmo que em silêncio. Só pelo simples fato de estar junto, no mesmo ambiente e na mesma sintonia”_.
     
