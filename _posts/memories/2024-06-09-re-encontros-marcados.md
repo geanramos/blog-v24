@@ -72,4 +72,4 @@ Grata pelo que aconteceu no último ano — e esperando ansiosamente por tudo qu
 
 ![@marinabfaria e @duda_hellmeister](./img/marinabfaria-e-duda_hellmeister.jpg)
 
-**Confira a declaração que  Marina fez a Duda?** [Aqui.](./img/marinabfaria-e-duda_hellmeister-2.png).
+Confira a declaração que  Marina fez a Duda? [Aqui.](./img/marinabfaria-e-duda_hellmeister-2.png)
