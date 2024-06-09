@@ -1,4 +1,3 @@
-
 ---
 title: "Conexões Inesperadas - Uma História de Encontros Marcados"
 date: "2024-06-09T11:49:00-03:00"
