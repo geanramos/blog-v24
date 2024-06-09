@@ -3,7 +3,7 @@ title: "O que é amor pra você?"
 date: "2024-06-09T11:48:00-03:00"
 description: Emocionantes definições de amor por diferentes idades revelam sua natureza complexa, desde a liberdade até a felicidade na felicidade do outro.
 tags: [memories]
-img: "https://substack-post-media.s3.amazonaws.com/public/images/e5505b3d-b61d-44e7-9562-3c8ddb55c0d8_640x625.jpeg"
+img: "https://i.pinimg.com/564x/12/f7/8c/12f78c80e1f144211034d4ee294e176e.jpg"
 ---
 ![filosofando](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
 
