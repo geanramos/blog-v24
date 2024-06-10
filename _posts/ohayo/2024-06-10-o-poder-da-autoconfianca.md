@@ -1,6 +1,6 @@
 ---
 title: Poder da autoconfiança
-date: 2024-06-10 18:09:47 -03:00
+date: 2024-06-10 12:09:47 -03:00
 description: Descubra o poder da autoconfiança. Por que se importar com a opinião dos outros quando você pode ser seu próprio juiz? Fortaleça sua mente, seja você mesmo!
 categories: ohayo
 tags: [ohayo]
