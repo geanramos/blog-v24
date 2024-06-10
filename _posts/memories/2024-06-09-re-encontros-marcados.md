@@ -3,7 +3,7 @@ title: "Conexões Inesperadas - Uma História de Encontros Marcados"
 date: "2024-06-09T11:49:00-03:00"
 description: Conheça a incrível trajetória de Marina e Duda, cujas vidas se entrelaçaram em uma série de coincidências, revelando que o amor pode estar onde menos esperamos.
 tags: [memories]
-img: "./img/marinabfaria-e-duda_hellmeister-2.png"
+img: "https://geanramos.com.br/img/marinabfaria-e-duda_hellmeister.jpg"
 ---
 
 ![](https://substack-post-media.s3.amazonaws.com/public/images/76ee0a58-a220-48f4-8cbc-d67055216005_736x734.jpeg)
