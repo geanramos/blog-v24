@@ -6,7 +6,6 @@ categories: ohayo
 tags: [ohayo]
 image: "https://image.tmdb.org/t/p/original/fnhNLizu4YShGyaIAmUZ2ziOn2e.jpg"
 ---
-
 ![na gaveta](https://cdn.jsdelivr.net/gh/geanramos/files/img/na-gaveta.png)
 
 **Celebrando o Dia dos Namorados no Brasil: Amor, Romance e Cinema**
