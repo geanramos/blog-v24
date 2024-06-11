@@ -32,7 +32,7 @@ Esta comédia romântica encantadora nos leva em uma viagem pela Irlanda, onde u
 
 **4. "Juntos para Sempre" (A Dog's Journey)**
 <div class="embed-responsive">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rubzP5q2uos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://filemoon.sx/d/cnpmx4iliyzj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 Neste filme tocante, acompanhamos a jornada de um cão chamado Bailey, que embarca em uma jornada espiritual através de diversas vidas, sempre buscando proteger e cuidar de seus donos. Ao longo de suas múltiplas encarnações, Bailey reencontra Ethan, seu primeiro dono, e percebe que sua missão vai além de uma única vida: é sobre lealdade, amor e a importância de estar sempre ao lado daqueles que amamos. É uma história emocionante que nos lembra do poder do vínculo humano-animal e da eternidade do amor verdadeiro.
 
 **5. "10 Coisas que Eu Odeio em Você" (10 Things I Hate About You)**
