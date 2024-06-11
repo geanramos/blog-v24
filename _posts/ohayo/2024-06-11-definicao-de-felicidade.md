@@ -12,8 +12,7 @@ image: "https://img.freepik.com/fotos-gratis/close-up-mulher-segurando-bebe_23-2
 ![close up mulher segurando bebe](https://img.freepik.com/fotos-gratis/close-up-mulher-segurando-bebe_23-2149071565.jpg)
 
 
-> "Existe apenas um único erro inato que é o de acreditarmos que vivemos para sermos felizes." 
-> - Schopenhauer
+> "Existe apenas um único erro inato que é o de acreditarmos que vivemos para sermos felizes." - Schopenhauer
 
 Hoje é vendida uma ideia de "felicidade a todo custo". Nada importa além de ser feliz e você DEVE ser feliz acima de tudo.
 
