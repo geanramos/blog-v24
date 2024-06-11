@@ -36,6 +36,7 @@ Esta comédia romântica encantadora nos leva em uma viagem pela Irlanda, onde u
 Neste filme tocante, acompanhamos a jornada de um cão chamado Bailey, que embarca em uma jornada espiritual através de diversas vidas, sempre buscando proteger e cuidar de seus donos. Ao longo de suas múltiplas encarnações, Bailey reencontra Ethan, seu primeiro dono, e percebe que sua missão vai além de uma única vida: é sobre lealdade, amor e a importância de estar sempre ao lado daqueles que amamos. É uma história emocionante que nos lembra do poder do vínculo humano-animal e da eternidade do amor verdadeiro.
 
 **5. "10 Coisas que Eu Odeio em Você" (10 Things I Hate About You)**
+<div class="embed-responsive">
 <iframe width="560" height="315" src="https://player.vimeo.com/video/693316477?h=0aadeb2640" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 Esta comédia romântica adolescente é uma reinterpretação moderna de "A Megera Domada" de Shakespeare. Com uma trama divertida, personagens cativantes e uma mensagem sincera sobre aceitação e autenticidade, este filme é perfeito para casais que gostam de uma boa dose de humor e romance.
 
