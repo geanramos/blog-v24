@@ -40,4 +40,6 @@ Neste filme tocante, acompanhamos a jornada de um cão chamado Bailey, que embar
 <iframe width="560" height="315" src="https://player.vimeo.com/video/693316477?h=0aadeb2640" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 Esta comédia romântica adolescente é uma reinterpretação moderna de "A Megera Domada" de Shakespeare. Com uma trama divertida, personagens cativantes e uma mensagem sincera sobre aceitação e autenticidade, este filme é perfeito para casais que gostam de uma boa dose de humor e romance.
 
-Então, neste Dia dos Namorados, mergulhe na atmosfera romântica do Brasil e desfrute de uma maratona de filmes que aquecerão seus corações, arrancarão risadas e talvez até mesmo derramarão algumas lágrimas. Que essas histórias de amor nos lembrem da beleza e da magia do amor verdadeiro, celebrando a conexão especial que compartilhamos com nossos parceiros. Feliz Dia dos Namorados! ❤️🎬
+Então, neste Dia dos Namorados, mergulhe na atmosfera romântica do Brasil e desfrute de uma maratona de filmes que aquecerão seus corações, arrancarão risadas e talvez até mesmo derramarão algumas lágrimas. Que essas histórias de amor nos lembrem da beleza e da magia do amor verdadeiro, celebrando a conexão especial que compartilhamos com nossos parceiros. 
+
+Feliz Dia dos Namorados! ❤️🎬
