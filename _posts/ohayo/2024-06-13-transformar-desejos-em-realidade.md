@@ -11,22 +11,22 @@ image: "https://img.freepik.com/fotos-gratis/mulher-embacada-de-tiro-medio-segur
 
 ![](https://img.freepik.com/fotos-gratis/mulher-embacada-de-tiro-medio-segurando-poste_23-2149321547.jpg)
 
-**É difícil colocar pra fora.** Eu sei. Mas é o único caminho.
+**É difícil colocar pra fora.**  Eu sei. Mas é o único caminho.
 
 > Às vezes, é difícil até entender o que queremos. Mas, uma vez que descobrimos, por que será que continua tão difícil colocar isso pra fora?
 
 Tudo aquilo que ultrapassa as  _suas fronteiras,_  pode ser, em certa medida,  **assustador**. Simplesmente porque sempre será um  _**campo desconhecido.**_
 
- - Por mais próximo que você seja de alguém, você  **jamais será capaz de enxergar e entender por completo tudo o que se passa dentro do universo do outro;**
+-   Por mais próximo que você seja de alguém, você  **jamais será capaz de enxergar e entender por completo tudo o que se passa dentro do universo do outro;**
     
- - Por mais que você já conheça um determinado lugar ou tenha experiência com certa atividade,  **a surpresa, o imprevisto, sempre serão parte inevitável na jornada da vida.**
+-   Por mais que você já conheça um determinado lugar ou tenha experiência com certa atividade,  **a surpresa, o imprevisto, sempre serão parte inevitável na jornada da vida.**
     
 
 É por isso que tudo aquilo transcende você:
 
- - A reação do outro sobre sua opinião; 
- - As consequências de uma escolha difícil; 
- - O desejo do outro…
+-   A reação do outro sobre sua opinião;
+-   As consequências de uma escolha difícil;
+-   O desejo do outro…
 
 Tudo isso pode dar medo, porque  **não é do seu domínio.**
 
@@ -42,11 +42,10 @@ Dá medo errar. Dá medo não ser aceito. Dá medo ser rejeitado. Mas dá MUITO 
 
 É por isso que você pode, sim, ser verdadeiro na sua comunicação:
 
- - Não diga “sim”, quando PRECISA dizer “não”;
- - Não cultive relacionamentos em que você não pode ser transparente sobre os seus objetivos e incômodos;    
- - Não se force perder tempo em um caminho que não é exatamente aquele que te levará aonde você quer chegar.
+-   Não diga “sim”, quando PRECISA dizer “não”;
+-   Não cultive relacionamentos em que você não pode ser transparente sobre os seus objetivos e incômodos;
+-   Não se force perder tempo em um caminho que não é exatamente aquele que te levará aonde você quer chegar.
 
 Seja claro consigo mesmo, com o outro e com o mundo sobre essas coisas. Ou elas permanecerão apenas como ideias e pensamentos que ganharão poder cada vez maior de te corroer por dentro.
 
-Sabe como você faz seus desejos acontecerem? 
-**Colocando eles no mundo.**
+Sabe como você faz seus desejos acontecerem?  **Colocando eles no mundo.**
