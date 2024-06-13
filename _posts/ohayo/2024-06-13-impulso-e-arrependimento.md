@@ -1,7 +1,7 @@
 ---
-title: Como Transformar Desejos em Realidade?
+title: Palavras têm poder
 date: 2024-06-13 09:10:47 -03:00
-description: Medo de errar? De não ser aceito? Não se contente com o 'e se'. Seja corajoso, expresse-se e persiga seus sonhos com determinação. Você é capaz!
+description: Fuja do ciclo de arrependimento! Aprenda a usar sua comunicação com consciência, construindo relacionamentos sólidos e confiáveis.
 categories: ohayo
 tags: [ohayo]
 image: "https://i.imgur.com/7gY9d4P.jpeg"
@@ -10,42 +10,30 @@ image: "https://i.imgur.com/7gY9d4P.jpeg"
 
 ![](https://i.imgur.com/7gY9d4P.jpeg)
 
-**É difícil colocar pra fora.** Eu sei. Mas é o único caminho.
+> “E uma vez lançada, a palavra voa irrevogável” - Horácio
 
-> Às vezes, é difícil até entender o que queremos. Mas, uma vez que descobrimos, por que será que continua tão difícil colocar isso pra fora?
+A sua palavra tem muito poder. E eu sei que muitas vezes ela sai sem que nem dê tempo pra pensar no que foi dito — e isso é um perigo.
 
-Tudo aquilo que ultrapassa as  _suas fronteiras,_  pode ser, em certa medida,  **assustador**. Simplesmente porque sempre será um  _**campo desconhecido.**_
+> O uso consciente das palavras é necessário para construir confiança e integridade. As palavras que escolhemos nas nossas interações não são apenas um meio de transmitir informações, elas são  **os alicerces dos relacionamentos.**
 
--   Por mais próximo que você seja de alguém, você  **jamais será capaz de enxergar e entender por completo tudo o que se passa dentro do universo do outro;**
+Quando soltamos uma ofensa, uma fofoca, no impulso… Por mais que a gente se arrependa, não temos como apagar o que foi dito.
+
+-   **Quem nunca passou por uma situação assim…**  
+
+Você entra em uma discussão com alguém, e palavras são lançadas como espadas dos dois lados.
     
--   Por mais que você já conheça um determinado lugar ou tenha experiência com certa atividade,  **a surpresa, o imprevisto, sempre serão parte inevitável na jornada da vida.**
+
+Você fica tão preso às emoções que se perde. Fica tão chateado ou irritado que perde de vista como resolver um problema.  **A raiva é uma emoção muito poderosa e pode nos fazer atacar alguém incontrolavelmente.**
+
+Durante o calor do momento, tudo o que queremos fazer é revidar e extravasar essa raiva. Claro, xingar e dizer coisas que magoam os outros pode dar uma sensação de alívio imediato.
+
+Mas é só imediato mesmo. Olhando um pouquinho na frente, a gente sabe bem que estamos prejudicando a nós mesmos — e aos outros — no processo.
+
+Então ficamos com as consequências. Ficamos então cara a cara com desculpas, arrependimento, tristeza, culpa e vergonha.
+
+-   Essa reflexão me lembrou o  livro [ “Os Quatro Compromissos”](https://amzn.to/4cjEZJ7), de [Don Miguel Ruiz](https://amzn.to/3yYqiwJ), onde o primeiro compromisso é:  **“Seja Impecável com a Sua Palavra”**
     
 
-É por isso que tudo aquilo transcende você:
+Esse é um princípio transformador que pode impactar significativamente todas as áreas da vida. 
 
- - A reação do outro sobre sua opinião; 
- - As consequências de uma escolha difícil; 
- - O desejo do outro…
-
-Tudo isso pode dar medo, porque  **não é do seu domínio.**
-
-Mas consegue perceber que, da mesma forma que você não conhece nem domina aquilo que não é seu, que está fora de você,  **o mundo também não irá reconhecer o que é importante pra você, seus sonhos, desejos e incômodos se você não colocar isso pra fora?**
-
-> A forma de fazer que aquilo que você mais deseja e precisa aconteça, é colocando isso no mundo.
-
-**E como se coloca isso no mundo?**
-
-> Através daquilo que você comunica (da forma mais clara possível) com o outro e de atitudes condizentes com o que está dentro de você.
-
-Dá medo errar. Dá medo não ser aceito. Dá medo ser rejeitado. Mas dá MUITO medo não ser aquilo que quer e não conseguir o que mais sonha.
-
-É por isso que você pode, sim, ser verdadeiro na sua comunicação:
-
--   Não diga “sim”, quando PRECISA dizer “não”;    
--   Não cultive relacionamentos em que você não pode ser transparente sobre os seus objetivos e incômodos;    
--   Não se force perder tempo em um caminho que não é exatamente aquele que te levará aonde você quer chegar.
-
-Seja claro consigo mesmo, com o outro e com o mundo sobre essas coisas. Ou elas permanecerão apenas como ideias e pensamentos que ganharão poder cada vez maior de te corroer por dentro.
-
-Sabe como você faz seus desejos acontecerem? 
-**Colocando eles no mundo.**
+Num campo onde as palavras podem ser uma ferramenta de agressão ou de cura, ser impecável com elas não é apenas uma escolha, mas uma obrigação.
