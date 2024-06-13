@@ -17,6 +17,7 @@ image: "https://img.freepik.com/fotos-gratis/mulher-embacada-de-tiro-medio-segur
 
 Tudo aquilo que ultrapassa as  suas fronteiras,  pode ser, em certa medida,  **assustador**. Simplesmente porque sempre será um  **campo desconhecido.**
 
+
 - Por mais próximo que você seja de alguém, você  **jamais será capaz de enxergar e entender por completo tudo o que se passa dentro do universo do outro;**
     
 - Por mais que você já conheça um determinado lugar ou tenha experiência com certa atividade,  **a surpresa, o imprevisto, sempre serão parte inevitável na jornada da vida.**
