@@ -42,9 +42,9 @@ Dá medo errar. Dá medo não ser aceito. Dá medo ser rejeitado. Mas dá MUITO 
 
 É por isso que você pode, sim, ser verdadeiro na sua comunicação:
 
--   Não diga “sim”, quando PRECISA dizer “não”;    
--   Não cultive relacionamentos em que você não pode ser transparente sobre os seus objetivos e incômodos;    
--   Não se force perder tempo em um caminho que não é exatamente aquele que te levará aonde você quer chegar.
+ - Não diga “sim”, quando PRECISA dizer “não”;
+ -   Não cultive relacionamentos em que você não pode ser transparente sobre os seus objetivos e incômodos;    
+ -   Não se force perder tempo em um caminho que não é exatamente aquele que te levará aonde você quer chegar.
 
 Seja claro consigo mesmo, com o outro e com o mundo sobre essas coisas. Ou elas permanecerão apenas como ideias e pensamentos que ganharão poder cada vez maior de te corroer por dentro.
 
