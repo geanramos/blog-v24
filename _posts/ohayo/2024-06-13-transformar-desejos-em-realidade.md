@@ -6,7 +6,7 @@ categories: ohayo
 tags: [ohayo]
 image: "https://img.freepik.com/fotos-gratis/mulher-embacada-de-tiro-medio-segurando-poste_23-2149321547.jpg"
 ---
-
+## v2
 <p><img src="https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png" alt=""></p>
 <p><img src="https://img.freepik.com/fotos-gratis/mulher-embacada-de-tiro-medio-segurando-poste_23-2149321547.jpg" alt=""></p>
 <p><strong>É difícil colocar pra fora.</strong>  Eu sei. Mas é o único caminho.</p>
