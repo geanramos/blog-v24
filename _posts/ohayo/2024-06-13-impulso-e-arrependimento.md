@@ -1,5 +1,5 @@
 ---
-title: Palavras têm poder
+title: Impulso e arrependimento
 date: 2024-06-13 09:10:47 -03:00
 description: Fuja do ciclo de arrependimento! Aprenda a usar sua comunicação com consciência, construindo relacionamentos sólidos e confiáveis.
 categories: ohayo
