@@ -41,3 +41,9 @@ Ao final, percebemos que nossas memórias, boas ou ruins, são o que nos tornam 
 Então, da próxima vez que você pensar em apagar alguém da sua memória, talvez seja melhor seguir o conselho de Joel: **"Enxergar a beleza do que passou é mais eficaz do que criar novos buracos".** 
 
 Afinal, é nas nossas imperfeições e lembranças que encontramos a verdadeira essência do que é ser humano.
+
+### Assista Brilho Eterno de uma Mente sem Lembranças (2004)
+
+<div class="embed-responsive">
+<iframe width="560" height="315" src="https://www.tokyvideo.com/embed/261351" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
