@@ -1,27 +1,43 @@
 ---
-title: "Uma mente sem lembranças"
-date: "2022-07-24"
-description: "Uma mente sem lembranças"
+title: Esquecer ou Lembrar? Eis a Questão
+date: 2022-07-24 15:11:47 -03:00
+description: Tentar apagar memórias pode parecer tentador, mas será que realmente ajuda? Despedidas são difíceis, mas apagar memórias não resolve.
+categories: memories
 tags: [memories]
-categories: [memories]
+image: "https://image.tmdb.org/t/p/original/12imOn96zRI2EMHOjOxm2qNY2BA.jpg"
 ---
 
-![Uma mente sem lembranças](https://i1.wp.com/i.gifer.com/M1l7.gif?resize=400,225)
+![Uma mente sem lembranças](https://themindofclementine.wordpress.com/wp-content/uploads/2015/04/wpid-brilho-eterno-de-uma-mente-sem-lembrancas-3.gif)
 
-“Se você pudesse apagar alguém da sua memória, quem você escolheria?”
 
-No filme “**Brilho Eterno de uma Mente sem Lembranças”**, Joe se surpreende ao descobrir que sua ex namorada, Clementine, realizou um procedimento que o deletou completamente da sua mente.
+> “Se você pudesse apagar alguém da sua memória, quem você escolheria?”
 
--   Revoltado, ele decide dar o troco, apagando as memórias de uma presença que era boa — **mas ficou ruim quando virou ausência.**
+No filme **"Brilho Eterno de uma Mente sem Lembranças"**, Joel, interpretado por Jim Carrey, descobre que sua ex-namorada, Clementine (Kate Winslet), fez um procedimento para deletá-lo completamente de sua memória. 
 
-No meio do processo, ele **revive algumas cenas** do início do relacionamento e logo se arrepende de ter escolhido perder todas essas memórias.
+Chocado e furioso, ele decide fazer o mesmo. 
 
-Misturando comédia romântica, drama e ficção científica, o diretor constrói uma **narrativa madura e poética** sobre relacionamentos, bem distante daqueles filmes que tentam pintar que o amor é perfeito.
+Afinal, nada mais justo do que apagar as lembranças de uma presença que era boa, mas ficou amarga com a ausência, certo?
 
-No decorrer da história, vemos que o relacionamento dos personagens acabou por dificuldade de convivência **e não por falta de amor.** Os dois se amavam, mas não deram certo juntos.
+No entanto, como muitas das nossas decisões de impulso, essa também não vai como planejado. Durante o processo de apagamento, Joel revive algumas cenas do início do relacionamento, aquelas cheias de risos, abraços e conversas madrugada adentro. 
 
--   É… Mas quem é que consegue ter maturidadequando acaba de levar um **pé na bunda?**
+É então que ele se arrepende de ter escolhido perder todas essas memórias preciosas.
 
-Brincadeiras à parte, sabemos que despedidas sempre são difíceis. Porém, **tentar esquecer o sofrimento sem encará-lo** é apenas uma forma preguiçosa de eternizar a dor.
+Com uma mistura de comédia romântica, drama e um toque de ficção científica, o diretor Michel Gondry constrói uma narrativa madura e poética sobre relacionamentos, bem distante dos filmes que tentam pintar o amor como uma eterna Disney World. 
 
-Ainda que as lembranças de quem partiu possam ser dolorosas, Joe e Clementine mostram que **enxergar a beleza do que passou** é mais eficaz do que criar novos buracos.
+Aqui, o amor é lindo, mas também bagunçado, complicado e, muitas vezes, cheio de desencontros.
+
+Ao longo da história, vemos que o relacionamento de Joel e Clementine não terminou por falta de amor, mas por dificuldades na convivência. 
+
+Eles se amavam, mas simplesmente não conseguiam funcionar juntos. Ah, o amor moderno!
+
+**E cá entre nós, quem é que consegue ter maturidade logo depois de levar um pé na bunda?** 
+
+Brincadeiras à parte, sabemos que despedidas sempre são difíceis. No entanto, tentar apagar o sofrimento sem realmente enfrentá-lo é apenas uma maneira preguiçosa de prolongar a dor.
+
+Mesmo que as lembranças de quem partiu possam ser dolorosas, Joel e Clementine mostram que encontrar a beleza no que foi vivido é mais eficaz do que criar novos vazios na mente. 
+
+Ao final, percebemos que nossas memórias, boas ou ruins, são o que nos tornam quem somos. E apagar alguém de nossa história é, no fundo, apagar uma parte de nós mesmos.
+
+Então, da próxima vez que você pensar em apagar alguém da sua memória, talvez seja melhor seguir o conselho de Joel: **"Enxergar a beleza do que passou é mais eficaz do que criar novos buracos".** 
+
+Afinal, é nas nossas imperfeições e lembranças que encontramos a verdadeira essência do que é ser humano.
