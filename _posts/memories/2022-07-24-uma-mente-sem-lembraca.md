@@ -9,10 +9,9 @@ image: "https://image.tmdb.org/t/p/original/12imOn96zRI2EMHOjOxm2qNY2BA.jpg"
 
 ![Uma mente sem lembranças](https://themindofclementine.wordpress.com/wp-content/uploads/2015/04/wpid-brilho-eterno-de-uma-mente-sem-lembrancas-3.gif)
 
-
 > “Se você pudesse apagar alguém da sua memória, quem você escolheria?”
 
-No filme **"Brilho Eterno de uma Mente sem Lembranças"**, Joel, interpretado por Jim Carrey, descobre que sua ex-namorada, Clementine (Kate Winslet), fez um procedimento para deletá-lo completamente de sua memória. 
+No filme **["Brilho Eterno de uma Mente sem Lembranças"](#assista-brilho-eterno-de-uma-mente-sem-lembranças-2004)**, Joel, interpretado por Jim Carrey, descobre que sua ex-namorada, Clementine (Kate Winslet), fez um procedimento para deletá-lo completamente de sua memória. 
 
 Chocado e furioso, ele decide fazer o mesmo. 
 
