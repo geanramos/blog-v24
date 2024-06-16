@@ -18,7 +18,7 @@ image: "https://image.tmdb.org/t/p/original/qpT6j1PvpkqYwPHvPpdy4XgtjYj.jpg"
     
 3.**Amar é "deixar ir"?** A pergunta é difícil de responder, mas  [essa história](https://www.instagram.com/reel/C8CVipJObHk/)  deixou a estagiária bem reflexiva sobre o assunto. 💭
     
-4.**Alerta gatilhos.** Essa é  [a sequência de fotos](#C8HbCTIxjyv/)  mais gostosa que você vai ver hoje. 🥹
+4.**Alerta gatilhos.** Essa é  [a sequência de fotos](https://www.instagram.com/p/C8SBP7MtJXt/)  mais gostosa que você vai ver hoje. 🥹
     
 5.**De-li-ci-o-so.** Em poucos minutinhos,  [essa receita](https://geanramos.com/watch.php?v=jm7ZEPuWJ6M)  deixa chips de batata-doce na air fryer com a casca dourada por fora. 🧀
   
