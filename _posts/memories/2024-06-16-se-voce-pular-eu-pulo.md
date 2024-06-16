@@ -1,6 +1,6 @@
 ---
 title: Se Você Pular, Eu Pulo - a Teoria do Amor Verdadeiro
-date: 2022-06-16 09:16:47 -03:00
+date: 2024-06-16 09:16:47 -03:00
 description: Amor impossível? Conheça a magia por trás da história de Jack e Rose e a teoria triangular do amor que faz essa história ressoar até hoje.
 categories: memories
 tags: [memories]

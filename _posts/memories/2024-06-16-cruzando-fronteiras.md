@@ -1,6 +1,6 @@
 ---
 title: Cruzando fronteiras
-date: 2022-06-16 09:15:47 -03:00
+date: 2024-06-16 09:15:47 -03:00
 description: De Hangzhou a Las Vegas, acompanhe a jornada romântica de Gabriela e Jacob, provando que o amor não conhece limites.
 categories: memories
 tags: [memories]
