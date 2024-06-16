@@ -81,8 +81,8 @@ figure,
 // strong | bold
 strong,
 b {
-  font-weight: $bold-weight;
-  color: $black;
+  font-weight: 600;
+    /* color:#0d122b; */
 }
 
 // horizontal rule

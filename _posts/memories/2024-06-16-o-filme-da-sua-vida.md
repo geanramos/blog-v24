@@ -4,7 +4,7 @@ date: 2024-06-16 09:14:47 -03:00
 description: Não se contente em ser uma figurante na sua própria vida. Enfrente os conflitos e transforme sua história em um filme inesquecível!
 categories: memories
 tags: [memories]
-image: "https://i.ytimg.com/vi/BUDbXi14XnE/maxresdefault.jpg"
+image: "https://geanramos.com.br/img/o-filme-da-sua-vida.jpg"
 ---
 
 ![GIF: Legalmente Loira](https://substack-post-media.s3.amazonaws.com/public/images/44ec6d47-d6e4-4c2f-9651-1dba6b9e8326_500x250.gif)
