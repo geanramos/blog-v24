@@ -85,4 +85,5 @@ Em março desse ano,  **eles se casaram em Las Vegas.** Depois de viver em tanto
 
 Agora, não precisam mais se preocupar com vistos e fronteiras, mas ainda ficam na expectativa: **qual será a segunda parte desse filme?**
 
-**Está duvidando que essa história de cinema aconteceu na vida real?** [Clique aqui pra conhecer a Gabi e o Jake](https://www.instagram.com/p/C8M30T7RZOR/). 🧸
+
+**Está duvidando que essa história de cinema aconteceu na vida real?** [Clique aqui pra conhecer a Gabi e o Jake](./img/gabi-e-o-jake.jpg). 🧸
