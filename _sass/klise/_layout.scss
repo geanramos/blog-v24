@@ -181,8 +181,9 @@
 
 // Author
 .author {
-  margin-top: 6.3rem;
-  margin-bottom: 7.2rem;
+  background: url(https://cdn.jsdelivr.net/gh/xukimseven/xukimseven.github.io/assets/lineart.png);
+  margin-top: 1rem;
+  margin-bottom: 3.1rem;
   text-align: center;
 
   @include media-query($on-mobile) {
@@ -266,7 +267,7 @@
 
 // Footer
 .footer {
-  margin-top: 8em;
+  margin-top: 3em;
   margin-bottom: 2em;
   text-align: center;
 
