@@ -30,10 +30,9 @@ layout: compress
 
   {% include navbar.html %}
   <div class="wrapper post">
-  {% include author.html %}
     <main class="page-content" aria-label="Content">
       <article itemscope itemtype="https://schema.org/BlogPosting">
-
+	    {% include author.html %}
         <header class="header">
           {% if page.tags and page.tags != empty %}
           <div class="tags">
