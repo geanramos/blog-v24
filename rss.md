@@ -1,0 +1,48 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+	<channel>
+		<title>{{ site.name | xml_escape }} - Articles</title>
+		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+		<link>{{ site.url }}</link>
+		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+		<lastBuildDate>{% for post in site.posts limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
+		<language>pt-BR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>24</sy:updateFrequency>
+		<generator>Jekyll</generator>
+		{% for post in site.posts %}
+		<item>
+			<title>{{ post.title | xml_escape }}</title>
+			<link>{{ site.url }}{{ post.url }}</link>
+			<comments>{{ site.url }}{{ post.url }}#comments</comments>
+			<dc:creator><![CDATA[{{ post.author }}]]></dc:creator>
+			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+			<category><![CDATA[{{ post.category }}]]></category>
+			<guid isPermaLink="false">{{ post.url }}</guid>
+			<description><![CDATA[
+				<img width="400" height="261" src="{{ post.image }}" class="webfeedsFeaturedVisual wp-post-image" alt="{{ post.title }}" style="display: block;margin: auto;margin-bottom: 5px;max-width: 100%;border-radius: 8px;" decoding="async" loading="lazy" />
+				<h2>{{ post.title }}</h2>
+				<p>{{ post.excerpt }}</p>
+				<p> A receita <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> apareceu primeiro em <a href="{{ site.url }}">{{ site.name }}</a>.</p>
+			]]></description>
+			<content:encoded><![CDATA[
+				<img width="400" height="261" src="{{ post.image }}" class="webfeedsFeaturedVisual wp-post-image" alt="{{ post.title }}" style="display: block;margin: auto;margin-bottom: 5px;max-width: 100%;border-radius: 8px;" decoding="async" loading="lazy" />
+				<h2>{{ post.title }}</h2>
+				<p>{{ post.content }}</p>
+				<p> A receita <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> apareceu primeiro em <a href="{{ site.url }}">{{ site.name }}</a>.</p>
+			]]></content:encoded>
+		</item>
+		{% endfor %}
+	</channel>
+</rss>
