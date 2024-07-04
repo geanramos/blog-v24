@@ -39,7 +39,7 @@
 			<content:encoded><![CDATA[
 				<img width="400" height="261" src="{{ post.image }}" class="webfeedsFeaturedVisual wp-post-image" alt="{{ post.title }}" style="display: block;margin: auto;margin-bottom: 5px;max-width: 100%;border-radius: 8px;" loading="lazy" />
 				<h2>{{ post.title }}</h2>
-				<p>{{ post.content }}</p>
+				<p>{{ post.description | xml_escape }}</p>
 				<p> O Post <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> apareceu primeiro em <a href="{{ site.url }}">{{ site.name }}</a>.</p>
 			]]></content:encoded>
 		</item>
