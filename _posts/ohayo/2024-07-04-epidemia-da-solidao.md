@@ -53,7 +53,5 @@ Nos últimos quilômetros da prova eu tive a sorte de encontrar uma amiga, e iss
 
 Você não precisa de ninguém para praticar um esporte que é individual, mas, vai por mim,  **você vai muito mais longe acompanhada.**
 
-> Ah, não me apresentei aqui, mas meu nome é [Marina
-> Pumar](https://www.instagram.com/marinapumar/).  Se quiser saber mais
-> sobre mim  — e sobre meu grupo de corrida  —  [é só seguir meu perfil
-> no Instagram](https://www.instagram.com/marinapumar/). ✨
+ Ah, não me apresentei aqui, mas meu nome é [Marina Pumar](https://www.instagram.com/marinapumar/).
+ Se quiser saber mais sobre mim  — e sobre meu grupo de corrida  —  [é só seguir meu perfil no Instagram](https://www.instagram.com/marinapumar/). ✨
