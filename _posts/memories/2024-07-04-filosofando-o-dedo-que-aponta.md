@@ -1,5 +1,5 @@
 ---
-title: "O Dedo que Aponta: Reflexões Sobre Autoconhecimento e Julgamento"
+title: "Reflexões Sobre Autoconhecimento e Julgamento"
 date: 2024-07-04 13:14:47 -03:00
 description: "Reflexões sobre autoconhecimento: como o ato de julgar reflete nossas próprias questões não resolvidas."
 categories: memories
