@@ -139,22 +139,24 @@ figcaption {
   text-align: center;
 }
 
-// List
+/* List */
 ul {
   list-style: none;
-  li {
-    display: list-item;
-    text-align: -webkit-match-parent;
-  }
-  li::before {
-    content: "";
-    display: inline-block;
-    top: -1px;
-    width: 1.2em;
-    position: relative;
-    margin-left: -1.3em;
-    font-weight: 700;
-  }
+  padding-left: 1.3em; /* Adiciona um padding à esquerda para acomodar os marcadores personalizados */
+}
+
+ul li {
+  position: relative; /* Necessário para posicionar o marcador */
+  padding-left: 1.2em; /* Adiciona espaço para o marcador */
+}
+
+ul li::before {
+  content: "\2022"; /* Usa um marcador de lista padrão (•) */
+  position: absolute; /* Posiciona o marcador */
+  left: 0; /* Marca a posição do marcador */
+  font-weight: 700;
+  font-size: 1em; /* Ajusta o tamanho do marcador */
+  color: #000; /* Define a cor do marcador */
 }
 
 ol {
