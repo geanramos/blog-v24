@@ -147,6 +147,7 @@ ul {
     text-align: -webkit-match-parent;
   }
   li::before {
+    content: "";
     display: inline-block;
     top: -1px;
     width: 1.2em;
