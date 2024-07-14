@@ -1,5 +1,5 @@
 ---
-title: "Harry e Sally: Uma História de Amor que Começa na Amizade"
+title: "Harry e Sally - Uma História de Amor que Começa na Amizade"
 date: 2024-07-14 10:14:47 -03:00
 description: "Explorando o amor que nasce da amizade, "Harry e Sally" é um clássico atemporal das comédias românticas."
 categories: memories
