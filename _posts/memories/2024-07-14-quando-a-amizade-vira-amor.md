@@ -90,4 +90,4 @@ Uma chance de ter alguém que a faz rir todos os dias, desde a hora que ela acor
 
 Pra quem sempre pergunta “o que acontece depois que o mocinho e a mocinha ficam juntos”, a Bruna responde: **o “felizes para sempre” pode ser ainda melhor depois dos créditos.**
 
-**Ficou curioso pra conhecer a Bruna e o Josué?** [Eles mostraram esse “amor de comédia romântica” no nosso Instagram](./img/bruunagomes-josuekasmirski.jpg). 🧸
+**Ficou curioso pra conhecer a Bruna e o Josué?** [Eles mostraram esse “amor de comédia romântica” Aqui!](./img/bruunagomes-josuekasmirski.jpg). 🧸
