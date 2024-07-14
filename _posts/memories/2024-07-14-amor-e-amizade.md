@@ -9,7 +9,7 @@ image: "https://image.tmdb.org/t/p/original/1eZFaU90LPT8H2HIllQgQjiRDFX.jpg"
 ![Harry e Sally: Uma História de Amor que Começa na Amizade](https://image.tmdb.org/t/p/original/xd5SYDUhNVGLUeK2epbEjnVBpPN.jpg)
 
 
--   Mas, bem antes de todos esses filmes, o clássico  **[“Harry e Sally: Feitos Um Para o Outro”](https://videa.hu/videok/film-animacio/harry-sally-feitos-um-para-amor-billy-crystal-ksh31AzPIXkZscHu)** foi pioneiro na temática.
+-   Mas, bem antes de todos esses filmes, o clássico  **[“Harry e Sally: Feitos Um Para o Outro”](#harry--sally-feitos-um-para-o-outro-1989)** foi pioneiro na temática.
     
 
 Marcado como uma das rom-coms mais emblemáticas de todos os tempos, o longa apresenta Harry e Sally, que se conhecem em uma viagem de carona para Nova York.
