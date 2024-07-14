@@ -33,3 +33,6 @@ Ah, e também não pense que a história vai pra aquele viés passional de “os
 Tudo isso porque  **os dois sabem das piores facetas um do outro.**  E é esse amplo conhecimento que dá espaço para o surgimento do amor — que também envolve descobrir defeitos.
 
 O filme, então, se distancia das produções cinematográficas onde o sentimento surge de paixões proibidas ou do amor à primeira vista. Para Harry e Sally,  **a base de um grande amor está na amizade.**
+
+### Harry & Sally: Feitos um para o Outro (1989)
+<div class="embed-responsive"> <iframe width="560" height="315" src="//ok.ru/videoembed/1567094934091" frameborder="0" allow="autoplay" allowfullscreen></iframe></div>
