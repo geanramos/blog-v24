@@ -8,8 +8,6 @@ image: "https://img.freepik.com/fotos-gratis/par-jovem-mentir-grama-com-balloon-
 ---
 ![Quando a Amizade Vira Amor](https://img.freepik.com/fotos-gratis/par-jovem-mentir-grama-com-balloon-coracao_23-2148020049.jpg)
 
-(GIF: When Harry Met Sally | Reprodução)
-
 A história de hoje começou em 2018, no aniversário de 23 anos da Bruna. Na época, ela estava presa em uma relação de idas e vindas, repleta de dependência emocional e frio na barriga.
 
 -   Sabe quando a gente vive no limbo entre picos de alegria e solidão profunda? A Bruna não deseja isso pra ninguém.
