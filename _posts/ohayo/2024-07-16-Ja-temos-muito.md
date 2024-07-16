@@ -1,5 +1,5 @@
 ---
-title: "o que é a realidade?"
+title: "Já temos muito"
 date: 2024-07-16 08:10:47 -03:00
 description: "citar santo agostinho: felicidade é continuar desejando aquilo que já possuímos"
 categories: ohayo
