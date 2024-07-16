@@ -11,9 +11,7 @@ image: "https://64.media.tumblr.com/c0f3dfbeb875556fc5e99623a7621a0b/01410b5103c
 
 ![](https://media.beehiiv.com/uploads/asset/file/adc004b9-968d-4e5c-8648-77711f337e47/Untitled-113.png)
 
-_"Quando a dor de não estar vivendo for maior do que o medo da mudança, a pessoa muda"_
-
-- Sigmund Freud
+_"Quando a dor de não estar vivendo for maior do que o medo da mudança, a pessoa muda" - *Sigmund Freud*_
 
 **Algumas mudanças simplesmente não podem ser forçadas, treinadas, ou planejadas.**
 
