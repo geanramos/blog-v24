@@ -6,8 +6,6 @@ categories: ohayo
 tags: [ohayo]
 image: "https://img.ltwebstatic.com/images3_spmp/2024/07/05/3f/1720146243335c478190a75aa2e5a804209a1d953a.webp"
 ---
-
-
 ![](https://img.ltwebstatic.com/images3_spmp/2024/07/05/3f/1720146243335c478190a75aa2e5a804209a1d953a.webp)
 
 Outro dia, me peguei olhando para as [minhas xícaras](https://br.shein.com/1pc-Creative-Fresh-Style-Ceramic-Coffee-Cup-And-Saucer-Set-With-Hand-painted-Cloud-Design-And-Irregular-Shape-p-19954223-cat-6850.html) e pensando em como  _preciso_  (contém ironia) comprar uma daquelas de cerâmica super fofas que estão viralizando nas redes sociais.
