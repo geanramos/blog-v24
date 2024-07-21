@@ -71,4 +71,4 @@ Ainda que todo mundo pergunte muito sobre o futuro, a Gabriela diz que se perde 
 
 Ela também não decidiu o modelo do vestido, e nem o lugar do casamento. A Gabi não sabe se vai ter filhos, mas sonha em viver a vida como o casal da foto acima:  **dançando e beijando na cozinha.**
 
-**Ficou curioso pra conhecer a Gabi e o Gustavo?** [Eles já apareceram no aqui](./img/gabi-e-gustava.png)  — registrando até o pedido de namoro e casamento. 🧸
+**Ficou curioso pra conhecer a Gabi e o Gustavo?** [Eles já apareceram por aqui](./img/gabi-e-gustava.png)  — registrando até o pedido de namoro e casamento. 🧸
