@@ -36,3 +36,5 @@ Ninguém ama outra pessoa porque ela é educada, veste-se bem e é fã do Caetan
 Ama-se pelo tom de voz, pela maneira que os olhos piscam, pela fragilidade que se revela quando menos se espera. Amar não requer conhecimento prévio nem consulta ao SPC. 
 
 Ama-se justamente pelo que o amor tem de indefinível. Honestos existem aos milhares, generosos têm às pencas, bons motoristas e bons pais de família, tá assim, ó. Mas ninguém consegue ser do jeito que o amor da sua vida é.
+
+— Martha Medeiros
