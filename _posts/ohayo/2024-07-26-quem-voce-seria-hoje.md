@@ -33,7 +33,7 @@ Buscamos respostas pra questionamentos como:
 -   Qual é o melhor plano de carreira?    
 -   Qual é a melhor especialização?    
 
-Mas a verdade é que só descobrimos a resposta para todas essas são questões quando "colocamos a cara a tapa", vamos para o campo de batalha e abraçamos o risco,  **SEMPRE presente.**
+Mas a verdade é que só descobrimos a resposta para todas essas questões quando "colocamos a cara a tapa", vamos para o campo de batalha e abraçamos o risco,  **SEMPRE presente.**
 
 Exige muita coragem fazer isso, mas é o que permite o movimento no agora,  **que é resultado de tudo o que te aconteceu**  e que te forneceu todas as  _ferramentas_  que você possui até então.
 
@@ -44,3 +44,7 @@ Por isso, como disse Steve Jobs em seu famoso discurso, "_Você precisa confiar 
 Algumas coisas podem realmente parecer sem sentido, injustas, maldosas... Mas essa não deve ser nunca uma desculpa para parar de acreditar, ou parar de se movimentar.
 
 💡 Porque, por mais que a vida só possa ser compreendida ao olhar para trás, ela PRECISA ser vivida seguindo em frente.
+
+
+### DISCURSO STEVE JOBS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/45xrq0wpqv4?si=AualXGUCB3LyTttM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
