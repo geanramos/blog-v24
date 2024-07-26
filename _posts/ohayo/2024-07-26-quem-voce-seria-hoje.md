@@ -15,7 +15,7 @@ Se você pudesse apagar todas as coisas difíceis que te aconteceram, você fari
 
 > (tradução: a vida só pode ser entendida olhando pra trás, mas deve ser vivida pra frente)
 
-Você provavelmente já assistiu a  [esse vídeo.](https://www.youtube.com/watch?v=45xrq0wpqv4)  E se não assistiu, recomendo que assista até o final.
+Você provavelmente já assistiu a  [esse vídeo.](#discurso-steve-jobs)  E se não assistiu, recomendo que assista até o final.
 
 Muitas vezes, não entendemos por que algumas portas se fecham, por que certas coisas aconteceram, e nem por que precisávamos nos machucar tanto.
 
@@ -47,4 +47,6 @@ Algumas coisas podem realmente parecer sem sentido, injustas, maldosas... Mas es
 
 
 ### DISCURSO STEVE JOBS
-<iframe width="560" height="315" src="https://www.youtube.com/embed/45xrq0wpqv4?si=AualXGUCB3LyTttM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div class="embed-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/45xrq0wpqv4?si=AualXGUCB3LyTttM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
