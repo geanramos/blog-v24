@@ -4,7 +4,7 @@ date: 2024-07-26 09:10:47 -03:00
 description: "O que importa não é o que o destino fez de nós, mas o que nós fazemos com o que o destino fez de nós"
 categories: ohayo
 tags: [ohayo]
-image: "https://img.freepik.com/vetores-premium/camiseta-infantil_1242587-22.jpg?w=740"
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq5S_cW76BT8fWNskTZ_KWrQXzP7_QrG4A1btuU3DbOwMrQKNkTheMw8nugkaYBuWcgD4gJYZiXtNfBNDRsH3cv-c4j167v1vnurVDboqs_uBb-vyftcPeuhOiYd3Pe8TN4u7jNbhMhIQ/s1600/cora.jpg"
 ---
 ![Filosofando: O que mais importa?](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
 
