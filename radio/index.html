@@ -28,7 +28,8 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800" rel="stylesheet">
     <link href="https://geanramos.com.br/radio/style.css?v=01" type="text/css" rel="stylesheet" media="screen,projection" />
-    <link href="https://geanramos.com.br/radio/font-awesome.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <!--<link href="https://geanramos.com.br/radio/font-awesome.css" type="text/css" rel="stylesheet" media="screen,projection" />-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.css" integrity="sha512-EaaldggZt4DPKMYBa143vxXQqLq5LE29DG/0OoVenoyxDrAScYrcYcHIuxYO9YNTIQMgD8c8gIUU8FQw7WpXSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://geanramos.com.br/radio/rrssb.css" />
     <!-- FAVICON -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://geanramos.com.br/radio/ico/apple-touch-icon-144-precomposed.png">
@@ -95,7 +96,7 @@
     <div class="bg"></div>
     <div class="efeito-bg"></div>
     <div class="logo">
-        <a id="logo-container" href="index.html" class="brand-logo center"><img src="https://geanramos.com.br/radio/logo.png" height="50" alt=""></a>
+        <a id="logo-container" href="https://geanramos.com.br/radio/" class="brand-logo center"><img src="https://geanramos.com.br/radio/logo.png?v=1" height="50" alt=""></a>
     </div>
     <div class="play">
         <div class="info-central">
@@ -134,58 +135,7 @@
         // this is important for IEs
         var polyfilter_scriptpath = '/js/';
     </script>
-    <script type="text/javascript">
-        var source = "https://ice24.securenetsystems.net/KZYN"
-        var audio = document.createElement("audio");
-        audio.src = source;
-        audio.onplaying = function () {
-            $(".dotted").show();
-            $("#pauseBtn").show();
-            $(".loading").hide();
-            $(".load-hora").hide();
-        }
-        $("#playBtn").click(function () {
-            audio.play();
-            $("#playBtn").hide();
-            $(".loading").show();
-        });
-        $("#pauseBtn").click(function () {
-            audio.load();
-            $("#pauseBtn").hide();
-            $("#playBtn").show();
-            $(".dotted").hide();
-        });
-        $('.btn-refresh').click(function () {
-            location.reload();
-        });
-
-        function getOuvintes() {
-//		  $.ajax({
-//              url: "https://ice24.securenetsystems.net/KZYN",
-//		  }).success(function( msg ) {
-//		    $('.info-ouvintes span').html(msg.ouvintes_online[0]+ ' OUVINTES');
-//		    setTimeout(getOuvintes, 20000);
-//		  }).fail(function () {
-//              $('.info-ouvintes span').html('CARREGANDO OUVINTES...');
-//		    setTimeout(getOuvintes, 20000);
-//		  });
-            $.getJSON('https://app.kshost.com.br/japi/8856', function(data) {
-                var ouvintes_conectados = data.ouvintes_conectados[0]; // Mostra total de ouvintes conectados
-                if (ouvintes_conectados > "") {
-                    $('.info-ouvintes span').html(ouvintes_conectados + ' OUVINTES');
-                    setTimeout(getOuvintes, 20000);
-                } else {
-                    $('.info-ouvintes span').html('TENTANDO CARREGAR OUVINTES...');
-                    setTimeout(getOuvintes, 20000);
-                }
-            });
-		}
-
-		$(document).ready(function(){
-			getOuvintes();
-		});
-
-    </script>
+	<script src="https://geanramos.com.br/radio/6D7C2BAE.js"></script>
 	<!--<script data-cfasync="false" async src="https://tags.premiumads.com.br/dfp/5fbb181c-ff16-43de-cbe7-08db1a852102"></script>-->
 </body>
 </html>
