@@ -23,15 +23,15 @@
         });
 
         function getOuvintes() {
-		  $.ajax({
-              url: "https://stream.zeno.fm/kbddsmlrjgjtv",
-		  }).success(function( msg ) {
-		    $('.info-ouvintes span').html(msg.ouvintes_online[0]+ ' OUVINTES');
-		    setTimeout(getOuvintes, 20000);
-		  }).fail(function () {
-              $('.info-ouvintes span').html('CARREGANDO OUVINTES...');
-		    setTimeout(getOuvintes, 20000);
-		  });
+//		  $.ajax({
+//              url: "https://stream.zeno.fm/kbddsmlrjgjtv",
+//		  }).success(function( msg ) {
+//		    $('.info-ouvintes span').html(msg.ouvintes_online[0]+ ' OUVINTES');
+//		    setTimeout(getOuvintes, 20000);
+//		  }).fail(function () {
+//              $('.info-ouvintes span').html('CARREGANDO OUVINTES...');
+//		    setTimeout(getOuvintes, 20000);
+//		  });
             $.getJSON('https://app.kshost.com.br/japi/8856', function(data) {
                 var ouvintes_conectados = data.ouvintes_conectados[0]; // Mostra total de ouvintes conectados
                 if (ouvintes_conectados > "") {
