@@ -1,4 +1,4 @@
-   var source = "https://alpha.gean.me/0:/radio/listen.pls"
+   var source = "https://geanramos.com.br/radio/play/listen.pls"
         var audio = document.createElement("audio");
         audio.src = source;
         audio.onplaying = function () {
