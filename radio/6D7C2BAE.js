@@ -1,4 +1,4 @@
-   var source = "https://ice24.securenetsystems.net/KZYN"
+   var source = "https://alpha.gean.me/0:/radio/listen.pls"
         var audio = document.createElement("audio");
         audio.src = source;
         audio.onplaying = function () {
@@ -24,7 +24,7 @@
 
         function getOuvintes() {
 //		  $.ajax({
-//              url: "https://alpha.gean.me/0:/radio/listen.pls",
+//              url: "https://ice24.securenetsystems.net/KZYN",
 //		  }).success(function( msg ) {
 //		    $('.info-ouvintes span').html(msg.ouvintes_online[0]+ ' OUVINTES');
 //		    setTimeout(getOuvintes, 20000);
