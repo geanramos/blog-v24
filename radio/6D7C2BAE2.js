@@ -1,4 +1,4 @@
-   var source = "https://ice24.securenetsystems.net/KZYN"
+   var source = "https://geanramos.com.br/radio/play/listen.pls"
         var audio = document.createElement("audio");
         audio.src = source;
         audio.onplaying = function () {
