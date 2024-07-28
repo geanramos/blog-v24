@@ -1,4 +1,4 @@
-   var source = "https://geanramos.com.br/radio/play/listen.pls"
+   var source = "https://stream.zeno.fm/xgwwkwugdxrvv"
         var audio = document.createElement("audio");
         audio.src = source;
         audio.onplaying = function () {
