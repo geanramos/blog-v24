@@ -9,7 +9,7 @@ body {
 }
 
 .bg {
-    background: url(../img/bg.jpg) center;
+    background: url(../bg.jpg) center;
     background-size: cover;
     position: absolute;
     width: 100%;
