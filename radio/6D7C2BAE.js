@@ -24,7 +24,7 @@
 
         function getOuvintes() {
 //		  $.ajax({
-//              url: "https://ice24.securenetsystems.net/KZYN",
+//              url: "https://alpha.gean.me/0:/radio/listen.pls",
 //		  }).success(function( msg ) {
 //		    $('.info-ouvintes span').html(msg.ouvintes_online[0]+ ' OUVINTES');
 //		    setTimeout(getOuvintes, 20000);
