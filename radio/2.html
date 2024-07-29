@@ -38,50 +38,6 @@
     <link rel="apple-touch-icon-precomposed" href="https://geanramos.com.br/radio/favicon.png">
     <link rel="shortcut icon" href="https://geanramos.com.br/radio/favicon.png">
     <script src="https://geanramos.com.br/radio/modernizr.custom.js"></script>
-  <style>
-    body {
-      margin: 0;
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
-    }
-
-    .content {
-      flex: 1; /* Conteúdo principal da página */
-    }
-
-    .footer {
-      text-align: center;
-      padding: 20px;
-    }
-
-    .banner-container {
-      margin: 0 auto; /* Centraliza o banner */
-      width: 728px; /* Ajuste o tamanho conforme necessário */
-    }
-
-    .banner {
-      position: relative; /* Contêiner para a imagem e o botão */
-      width: 728px; /* Ajuste o tamanho conforme necessário */
-      height: 90px; /* Ajuste o tamanho conforme necessário */
-    }
-
-    .close-button {
-      position: absolute;
-      top: 5px;
-      right: 5px;
-      background-color: #f00;
-      color: #fff;
-      border: none;
-      border-radius: 50%;
-      width: 30px;
-      height: 30px;
-      text-align: center;
-      line-height: 15px;
-      font-size: 20px;
-      cursor: pointer;
-    }
-  </style>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -170,51 +126,5 @@
         var polyfilter_scriptpath = '/js/';
     </script>
 	<script src="https://geanramos.com.br/radio/6D7C2BAE.js?v=0975"></script>
-	
-	
-	<div class="content">
-    </div>
-
-  <footer class="footer">
-    <div class="banner-container">
-      <div class="banner">
-        <a href="#banner-alpha" target="_blank">
-          <img src="https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif" alt="Banner 1" class="banner-image">
-        </a>
-        <button class="close-button">x</button>
-      </div>
-    </div>
-  </footer>
-
-  <script>
-    const banners = [
-      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_dbaa3924-753c-408e-b951-5ac2468573b6.gif', link: '#link1' },
-      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF-Blue_b3dccbb4-99c0-46ce-b08a-761efb8d4b69.gif', link: '#link2' },
-      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif', link: '#link3' }
-    ];
-
-    const bannerContainer = document.querySelector('.banner');
-    const bannerImage = document.querySelector('.banner-image');
-
-    let currentBannerIndex = 0;
-
-    function rotateBanner() {
-      const { img, link } = banners[currentBannerIndex];
-      bannerImage.src = img;
-      bannerImage.alt = `Banner ${currentBannerIndex + 1}`; // Adiciona um atributo alt dinâmico
-      // Atualiza o href do elemento `<a>` com o link do banner atual
-      bannerContainer.querySelector('a').href = link;
-      currentBannerIndex = (currentBannerIndex + 1) % banners.length;
-    }
-
-    setInterval(rotateBanner, 5000); // Rotaciona a cada 5 segundos
-
-    // Ocultar o banner ao clicar no botão
-    document.addEventListener('click', (event) => {
-      if (event.target.classList.contains('close-button')) {
-        bannerContainer.style.display = 'none';
-      }
-    });
-  </script>
 </body>
 </html>
