@@ -15,8 +15,8 @@
 
     .close-button {
       position: absolute;
-      top: 10px;
-      right: 10px;
+      top: 5px;
+      right: 5px;
       background-color: #f00;
       color: #fff;
       border: none;
@@ -24,7 +24,7 @@
       width: 30px;
       height: 30px;
       text-align: center;
-      line-height: 30px;
+      line-height: 15px;
       font-size: 20px;
       cursor: pointer;
     }
@@ -33,16 +33,18 @@
 <body>
   <div class="banner-container">
     <div class="banner">
-      <img src="https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif" alt="Banner 1" class="banner-image">
+      <a href="#banner-alpha" target="_blank">
+        <img src="https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif" alt="Banner 1" class="banner-image">
+      </a>
       <button class="close-button">x</button>
     </div>
   </div>
 
   <script>
     const banners = [
-      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_dbaa3924-753c-408e-b951-5ac2468573b6.gif', link: 'https://exemplo.com/link1' },
-      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF-Blue_b3dccbb4-99c0-46ce-b08a-761efb8d4b69.gif', link: 'https://exemplo.com/link2' },
-      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif', link: 'https://exemplo.com/link3' }
+      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_dbaa3924-753c-408e-b951-5ac2468573b6.gif', link: '#link1' },
+      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF-Blue_b3dccbb4-99c0-46ce-b08a-761efb8d4b69.gif', link: '#link2' },
+      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif', link: '#link3' }
     ];
 
     const bannerContainer = document.querySelector('.banner');
@@ -54,6 +56,8 @@
       const { img, link } = banners[currentBannerIndex];
       bannerImage.src = img;
       bannerImage.alt = `Banner ${currentBannerIndex + 1}`; // Adiciona um atributo alt dinâmico
+      // Atualiza o href do elemento `<a>` com o link do banner atual
+      bannerContainer.querySelector('a').href = link;
       currentBannerIndex = (currentBannerIndex + 1) % banners.length;
     }
 

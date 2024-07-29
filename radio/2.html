@@ -39,31 +39,32 @@
     <link rel="shortcut icon" href="https://geanramos.com.br/radio/favicon.png">
     <script src="https://geanramos.com.br/radio/modernizr.custom.js"></script>
 	<style>
-    /* Estilos CSS para o banner */
     .banner-container {
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      background: #f0f0f0;
-      padding: 10px;
-      text-align: center;
+      position: relative; /* Contêiner principal para o banner */
     }
+
     .banner {
-      display: inline-block;
-      background: #fff;
-      padding: 10px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-      max-width: 728px;
+      position: relative; /* Contêiner para a imagem e o botão */
+      width: 728px; /* Ajuste o tamanho conforme necessário */
+      height: 90px; /* Ajuste o tamanho conforme necessário */
     }
+
     .close-button {
       position: absolute;
       top: 5px;
       right: 5px;
+      background-color: #f00;
+      color: #fff;
+      border: none;
+      border-radius: 50%;
+      width: 30px;
+      height: 30px;
+      text-align: center;
+      line-height: 15px;
+      font-size: 20px;
       cursor: pointer;
     }
-	</style>
+  </style>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -152,41 +153,45 @@
         var polyfilter_scriptpath = '/js/';
     </script>
 	<script src="https://geanramos.com.br/radio/6D7C2BAE.js?v=0975"></script>
-	<div class="banner-container">
+	
+	
+	div class="banner-container">
     <div class="banner">
-      <img src="banner1.jpg" alt="Banner 1">
-      <button class="close-button">Fechar</button>
+      <a href="#" target="_blank">
+        <img src="https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif" alt="Banner 1" class="banner-image">
+      </a>
+      <button class="close-button">x</button>
     </div>
   </div>
-	<script>
-    // JavaScript para rotatividade dos banners
+
+  <script>
     const banners = [
-      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_dbaa3924-753c-408e-b951-5ac2468573b6.gif', link: 'https://geanramos.com.br/radio/#01' },
-      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF-Blue_b3dccbb4-99c0-46ce-b08a-761efb8d4b69.gif', link: 'https://geanramos.com.br/radio/#02' },
-      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif', link: 'https://geanramos.com.br/radio/#03' }
+      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_dbaa3924-753c-408e-b951-5ac2468573b6.gif', link: 'https://exemplo.com/link1' },
+      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF-Blue_b3dccbb4-99c0-46ce-b08a-761efb8d4b69.gif', link: 'https://exemplo.com/link2' },
+      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif', link: 'https://exemplo.com/link3' }
     ];
+
     const bannerContainer = document.querySelector('.banner');
-    const closeButton = document.querySelector('.close-button');
+    const bannerImage = document.querySelector('.banner-image');
 
     let currentBannerIndex = 0;
 
     function rotateBanner() {
       const { img, link } = banners[currentBannerIndex];
-      bannerContainer.innerHTML = `
-        <a href="${link}" target="_blank">
-          <img src="${img}" alt="Banner">
-        </a>
-        <button class="close-button">Fechar</button>
-      `;
+      bannerImage.src = img;
+      bannerImage.alt = `Banner ${currentBannerIndex + 1}`; // Adiciona um atributo alt dinâmico
+      // Atualiza o href do elemento `<a>` com o link do banner atual
+      bannerContainer.querySelector('a').href = link;
       currentBannerIndex = (currentBannerIndex + 1) % banners.length;
     }
 
-    // Rotacionar o banner a cada 5 segundos
-    setInterval(rotateBanner, 5000);
+    setInterval(rotateBanner, 5000); // Rotaciona a cada 5 segundos
 
     // Ocultar o banner ao clicar no botão
-    closeButton.addEventListener('click', () => {
-      bannerContainer.style.display = 'none';
+    document.addEventListener('click', (event) => {
+      if (event.target.classList.contains('close-button')) {
+        bannerContainer.style.display = 'none';
+      }
     });
   </script>
 </body>
