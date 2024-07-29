@@ -38,9 +38,26 @@
     <link rel="apple-touch-icon-precomposed" href="https://geanramos.com.br/radio/favicon.png">
     <link rel="shortcut icon" href="https://geanramos.com.br/radio/favicon.png">
     <script src="https://geanramos.com.br/radio/modernizr.custom.js"></script>
-	<style>
+  <style>
+    body {
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    .content {
+      flex: 1; /* Conteúdo principal da página */
+    }
+
+    .footer {
+      text-align: center;
+      padding: 20px;
+    }
+
     .banner-container {
-      position: relative; /* Contêiner principal para o banner */
+      margin: 0 auto; /* Centraliza o banner */
+      width: 728px; /* Ajuste o tamanho conforme necessário */
     }
 
     .banner {
@@ -155,20 +172,25 @@
 	<script src="https://geanramos.com.br/radio/6D7C2BAE.js?v=0975"></script>
 	
 	
-	div class="banner-container">
-    <div class="banner">
-      <a href="#" target="_blank">
-        <img src="https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif" alt="Banner 1" class="banner-image">
-      </a>
-      <button class="close-button">x</button>
+	<div class="content">
     </div>
-  </div>
+
+  <footer class="footer">
+    <div class="banner-container">
+      <div class="banner">
+        <a href="#banner-alpha" target="_blank">
+          <img src="https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif" alt="Banner 1" class="banner-image">
+        </a>
+        <button class="close-button">x</button>
+      </div>
+    </div>
+  </footer>
 
   <script>
     const banners = [
-      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_dbaa3924-753c-408e-b951-5ac2468573b6.gif', link: 'https://exemplo.com/link1' },
-      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF-Blue_b3dccbb4-99c0-46ce-b08a-761efb8d4b69.gif', link: 'https://exemplo.com/link2' },
-      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif', link: 'https://exemplo.com/link3' }
+      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_dbaa3924-753c-408e-b951-5ac2468573b6.gif', link: '#link1' },
+      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF-Blue_b3dccbb4-99c0-46ce-b08a-761efb8d4b69.gif', link: '#link2' },
+      { img: 'https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif', link: '#link3' }
     ];
 
     const bannerContainer = document.querySelector('.banner');

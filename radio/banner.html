@@ -1,10 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Banner Rotativo</title>
+  <title>Banner Rotativo no Rodapé</title>
   <style>
+    body {
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    .content {
+      flex: 1; /* Conteúdo principal da página */
+    }
+
+    .footer {
+      text-align: center;
+      padding: 20px;
+    }
+
     .banner-container {
-      position: relative; /* Contêiner principal para o banner */
+      margin: 0 auto; /* Centraliza o banner */
+      width: 728px; /* Ajuste o tamanho conforme necessário */
     }
 
     .banner {
@@ -31,14 +48,19 @@
   </style>
 </head>
 <body>
-  <div class="banner-container">
-    <div class="banner">
-      <a href="#banner-alpha" target="_blank">
-        <img src="https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif" alt="Banner 1" class="banner-image">
-      </a>
-      <button class="close-button">x</button>
+  <div class="content">
     </div>
-  </div>
+
+  <footer class="footer">
+    <div class="banner-container">
+      <div class="banner">
+        <a href="#banner-alpha" target="_blank">
+          <img src="https://woodpunchsgraphics.com/cdn/shop/products/Original-GIF_d996eed6-47a0-49ea-abc6-123e75c0d89e.gif" alt="Banner 1" class="banner-image">
+        </a>
+        <button class="close-button">x</button>
+      </div>
+    </div>
+  </footer>
 
   <script>
     const banners = [
