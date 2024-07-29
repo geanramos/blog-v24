@@ -38,6 +38,32 @@
     <link rel="apple-touch-icon-precomposed" href="https://geanramos.com.br/radio/favicon.png">
     <link rel="shortcut icon" href="https://geanramos.com.br/radio/favicon.png">
     <script src="https://geanramos.com.br/radio/modernizr.custom.js"></script>
+	<style>
+    /* Estilos CSS para o banner */
+    .banner-container {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      background: #f0f0f0;
+      padding: 10px;
+      text-align: center;
+    }
+    .banner {
+      display: inline-block;
+      background: #fff;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      max-width: 728px;
+    }
+    .close-button {
+      position: absolute;
+      top: 5px;
+      right: 5px;
+      cursor: pointer;
+    }
+	</style>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -126,6 +152,7 @@
         var polyfilter_scriptpath = '/js/';
     </script>
 	<script src="https://geanramos.com.br/radio/6D7C2BAE.js?v=0975"></script>
-	<!--<script data-cfasync="false" async src="https://tags.premiumads.com.br/dfpg/5fbb181c-ff16-43de-cbe7-08db1a852102"></script>-->
+	<div class="banner-container"><div class="banner"></div></div>
+	<script data-cfasync="false" async src="https://geanramos.com.br/radio/ads.js"></script>
 </body>
 </html>
