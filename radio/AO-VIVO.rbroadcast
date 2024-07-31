@@ -1,0 +1,30 @@
+{
+    "dsp": [
+    ],
+    "streams": [
+        {
+            "audioencoder": {
+                "bitrate": 128,
+                "channels": 2,
+                "codec": "MP3",
+                "name": "MP3 (128 kbps)",
+                "pro": 0,
+                "samplerate": 44100
+            },
+            "description": "O Melhor do Rock Clássico 24h! Apaixone-se pelos maiores hits, reviva as lendas do rock e aproveite uma experiência musical única. Sintonize já!",
+            "genre": "Rock Classico",
+            "hostname": "link.zeno.fm",
+            "mountpoint": "/3b2eoqjxutauv",
+            "networkadapter": 0,
+            "password": "LYuWuH8Z",
+            "port": 80,
+            "private": false,
+            "protocol": 0,
+            "servername": "AO VIVO",
+            "stationartwork": "",
+            "streamid": 1,
+            "url": "https://geanramos.com.br/radio",
+            "username": "source"
+        }
+    ]
+}
