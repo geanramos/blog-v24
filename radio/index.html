@@ -125,7 +125,65 @@
         // this is important for IEs
         var polyfilter_scriptpath = '/js/';
     </script>
-	<script src="https://geanramos.com.br/radio/6D7C2BAE2.js?v=07564"></script>
+	<script>
+        // this is important for IEs
+        var polyfilter_scriptpath = '/js/';
+    </script>
+	<script>
+        // this is important for IEs
+        var polyfilter_scriptpath = '/js/';
+    </script>
+    <script type="text/javascript">
+	   var source = "https://stream.zeno.fm/kbddsmlrjgjtv"
+        var audio = document.createElement("audio");
+        audio.src = source;
+        audio.onplaying = function () {
+            $(".dotted").show();
+            $("#pauseBtn").show();
+            $(".loading").hide();
+            $(".load-hora").hide();
+        }
+        $("#playBtn").click(function () {
+            audio.play();
+            $("#playBtn").hide();
+            $(".loading").show();
+        });
+        $("#pauseBtn").click(function () {
+            audio.load();
+            $("#pauseBtn").hide();
+            $("#playBtn").show();
+            $(".dotted").hide();
+        });
+        $('.btn-refresh').click(function () {
+            location.reload();
+        });
+
+        function getOuvintes() {
+//		  $.ajax({
+//              url: "https://stream.zeno.fm/kbddsmlrjgjtv",
+//		  }).success(function( msg ) {
+//		    $('.info-ouvintes span').html(msg.ouvintes_online[0]+ ' OUVINTES');
+//		    setTimeout(getOuvintes, 20000);
+//		  }).fail(function () {
+//              $('.info-ouvintes span').html('CARREGANDO OUVINTES...');
+//		    setTimeout(getOuvintes, 20000);
+//		  });
+            $.getJSON('https://app.kshost.com.br/japi/8856', function(data) {
+                var ouvintes_conectados = data.ouvintes_conectados[0]; // Mostra total de ouvintes conectados
+                if (ouvintes_conectados > "") {
+                    $('.info-ouvintes span').html(ouvintes_conectados + ' OUVINTES');
+                    setTimeout(getOuvintes, 20000);
+                } else {
+                    $('.info-ouvintes span').html('TENTANDO CARREGAR OUVINTES...');
+                    setTimeout(getOuvintes, 20000);
+                }
+            });
+		}
+
+		$(document).ready(function(){
+			getOuvintes();
+		});
+    </script>
 	<!--<script data-cfasync="false" async src="https://tags.premiumads.com.br/dfpg/5fbb181c-ff16-43de-cbe7-08db1a852102"></script>-->
 </body>
 </html>
