@@ -22,8 +22,8 @@ body {
 .efeito-bg {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#30221a+0,140b04+100&0.8+0,0.9+100 */
     background: -moz-linear-gradient(45deg,  rgba(0,1,7,0.9) 0%, rgba(2,0,28,0.8) 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg,  rgba(0,1,7,0.9) 0%,rgba(2,0,28,0.8) 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg,  rgba(0,1,7,0.9) 0%,rgba(2,0,28,0.8) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -webkit-linear-gradient(270deg, #00c2ff 0%, rgba(0, 0, 0, 0.23) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(1deg, rgba(0, 0, 0, 0.23) 0%, #00c2ff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6000107', endColorstr='#cc02001c',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     position: absolute;
     width: 100%;
