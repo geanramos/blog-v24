@@ -15,8 +15,8 @@ body {
     width: 100%;
     height: 100%;
     z-index: 1;
-    -webkit-filter: blur(10px);
-    filter: blur(10px);
+    -webkit-filter: blur(1px);
+    filter: blur(1px);
 }
 
 .efeito-bg {
@@ -62,7 +62,7 @@ body {
 
 .info-central h3 {
     font-weight: 100;
-    font-size: 43px;
+    font-size: 26px;
     margin: 0;
     width: 100%;
     height: 35px;
@@ -230,7 +230,7 @@ body {
     position: absolute;
     width: 100%;
     text-align: center;
-    color: #ae6161;
+    color: #ffffff;
     z-index: 3;
     top: 60%;
     font-size: 15px;
