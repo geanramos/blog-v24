@@ -1,4 +1,4 @@
-   var source = "https://stream.zeno.fm/kbddsmlrjgjtv"
+   var source = "https://stream-173.zeno.fm/kde3aqiztz7vv"
         var audio = document.createElement("audio");
         audio.src = source;
         audio.onplaying = function () {
@@ -24,7 +24,7 @@
 
         function getOuvintes() {
 //		  $.ajax({
-//              url: "https://stream.zeno.fm/kbddsmlrjgjtv",
+//              url: "https://stream-173.zeno.fm/kde3aqiztz7vv",
 //		  }).success(function( msg ) {
 //		    $('.info-ouvintes span').html(msg.ouvintes_online[0]+ ' OUVINTES');
 //		    setTimeout(getOuvintes, 20000);
@@ -32,7 +32,7 @@
 //              $('.info-ouvintes span').html('CARREGANDO OUVINTES...');
 //		    setTimeout(getOuvintes, 20000);
 //		  });
-            $.getJSON('https://app.kshost.com.br/japi/8862', function(data) {
+            $.getJSON('https://app.kshost.com.br/japi/9322', function(data) {
                 var ouvintes_conectados = data.ouvintes_conectados[0]; // Mostra total de ouvintes conectados
                 if (ouvintes_conectados > "") {
                     $('.info-ouvintes span').html(ouvintes_conectados + ' OUVINTES');
