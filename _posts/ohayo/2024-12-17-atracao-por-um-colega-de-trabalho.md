@@ -1,5 +1,5 @@
 ---
-title: Trair ou respeitar meu casamento, como lidar com a atração no trabalho?
+title: Como lidar com a atração no trabalho?
 date: 2024-12-17 07:10:47 -03:00
 description: Como lidar com a atração por um colega de trabalho sem comprometer seu casamento? Descubra como manter o respeito e a fidelidade
 categories: ohayo
@@ -7,7 +7,7 @@ tags: [ohayo]
 image: "https://geanramos.com.br/img/paixao-no-trabalho.jpg"
 ---
 
-![ohayo - bom dia - rising](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
+![Trair ou respeitar meu casamento](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
 
 
 ![Paixão no trabalho pode desestabilizar, mas é possível preservar seu casamento com autoconhecimento. Veja como se afastar da tentação.](https://geanramos.com.br/img/paixao-no-trabalho.jpg)
