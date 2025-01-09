@@ -32,7 +32,7 @@
 //              $('.info-ouvintes span').html('CARREGANDO OUVINTES...');
 //		    setTimeout(getOuvintes, 20000);
 //		  });
-            $.getJSON('https://app.kshost.com.br/japi/9322', function(data) {
+            $.getJSON('https://99fm.dol.com.br/aovivo/brascast.php', function(data) {
                 var ouvintes_conectados = data.ouvintes_conectados[0]; // Mostra total de ouvintes conectados
                 if (ouvintes_conectados > "") {
                     $('.info-ouvintes span').html(ouvintes_conectados + ' OUVINTES');
