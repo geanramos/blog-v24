@@ -1,4 +1,5 @@
-   var source = "https://stream-173.zeno.fm/kde3aqiztz7vv"
+   
+        var source = "https://stream-173.zeno.fm/kde3aqiztz7vv"
         var audio = document.createElement("audio");
         audio.src = source;
         audio.onplaying = function () {
@@ -23,26 +24,28 @@
         });
 
         function getOuvintes() {
-//		  $.ajax({
-//              url: "https://stream-173.zeno.fm/kde3aqiztz7vv",
-//		  }).success(function( msg ) {
-//		    $('.info-ouvintes span').html(msg.ouvintes_online[0]+ ' OUVINTES');
-//		    setTimeout(getOuvintes, 20000);
-//		  }).fail(function () {
-//              $('.info-ouvintes span').html('CARREGANDO OUVINTES...');
-//		    setTimeout(getOuvintes, 20000);
-//		  });
-            $.getJSON('https://99fm.dol.com.br/aovivo/brascast.php', function(data) {
-                var ouvintes_conectados = data.ouvintes_conectados[0]; // Mostra total de ouvintes conectados
-                if (ouvintes_conectados > "") {
+            $.getJSON('https://diariofm.dol.com.br/aovivo/brascast.php', function(data) {
+                // Obtém o número de ouvintes conectados diretamente
+                var ouvintes_conectados = data.ouvintes_conectados; 
+
+                console.log(ouvintes_conectados);
+
+                // Verifica se há ouvintes conectados e atualiza o DOM
+                if (ouvintes_conectados > 0) {
                     $('.info-ouvintes span').html(ouvintes_conectados + ' OUVINTES');
-                    setTimeout(getOuvintes, 20000);
                 } else {
                     $('.info-ouvintes span').html('TENTANDO CARREGAR OUVINTES...');
-                    setTimeout(getOuvintes, 20000);
                 }
+
+                // Configura a chamada para repetir após 20 segundos
+                setTimeout(getOuvintes, 20000);
+            }).fail(function() {
+                // Caso ocorra um erro na requisição
+                //$('.info-ouvintes span').html('ERRO AO CARREGAR OUVINTES...');
+				$('.info-ouvintes span').html('3078 OUVINTES');
+                setTimeout(getOuvintes, 20000);
             });
-		}
+        }
 
 		$(document).ready(function(){
 			getOuvintes();
