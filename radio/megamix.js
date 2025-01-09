@@ -1,4 +1,4 @@
-        var source = "https://stream-173.zeno.fm/kde3aqiztz7vv"
+        var source = "https://stream.zeno.fm/kbddsmlrjgjtv"
         var audio = document.createElement("audio");
         audio.src = source;
         audio.onplaying = function () {
