@@ -1,11 +1,12 @@
 ---
-title: "Família é quem a gente escolhe"
+title: "Natal longe de casa, mas com o coração aquecido de amor"
 description: "No dia 25, Mari não vai estar na casa da vovó Hélvia, mas queria contar essa história como forma de fazer-se presente em seu Natal."
 date: 2022-11-25T12:13:38+05:30
 tags: [memories]
+img: "https://i1.wp.com/geanramos.com.br/img/silvio-santos-com-a-mulher-filhas-neto.jpg?resize=800,450"
 ---
 
-![Natal da família de Patricia Abravanel (Foto: Reprodução Instagram @patriciaabravanel)](https://i1.wp.com/paisefilhos.uol.com.br/wp-content/uploads/2020/12/patricia-abravanel-familia-natal.jpg?resize=800,450)
+![Natal da família de Patricia Abravanel (Foto: Reprodução Instagram @patriciaabravanel)](https://i1.wp.com/geanramos.com.br/img/silvio-santos-com-a-mulher-filhas-neto.jpg?resize=800,450)
 
 **Ricardo** e **Tereza** casaram-se quando ainda eram muito jovens. **Tereza** tinha uma **família enorme** — dessas de propaganda de margarina —, que faz questão de reunir e **agregar até quem não é de sangue**.
 
