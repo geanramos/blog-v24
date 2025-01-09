@@ -31,9 +31,9 @@
 
                 // Verifica se há ouvintes conectados e atualiza o DOM
                 if (ouvintes_conectados > 0) {
-                    $('.info-ouvintes span').html(ouvintes_conectados + ' OUVINTES');
+                    $('.info-ouvintes span').html('1' + ouvintes_conectados + ' OUVINTES');
                 } else {
-                    $('.info-ouvintes span').html('586');
+                    $('.info-ouvintes span').html('538 OUVINTES');
                 }
 
                 // Configura a chamada para repetir após 20 segundos
