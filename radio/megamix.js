@@ -1,30 +1,29 @@
-   
-        var source = "https://stream-173.zeno.fm/kde3aqiztz7vv"
+        var source = "https://stream.zeno.fm/kbddsmlrjgjtv"
         var audio = document.createElement("audio");
         audio.src = source;
-        audio.onplaying = function () {
+        audio.onplaying = function() {
             $(".dotted").show();
             $("#pauseBtn").show();
             $(".loading").hide();
             $(".load-hora").hide();
         }
-        $("#playBtn").click(function () {
+        $("#playBtn").click(function() {
             audio.play();
             $("#playBtn").hide();
             $(".loading").show();
         });
-        $("#pauseBtn").click(function () {
+        $("#pauseBtn").click(function() {
             audio.load();
             $("#pauseBtn").hide();
             $("#playBtn").show();
             $(".dotted").hide();
         });
-        $('.btn-refresh').click(function () {
+        $('.btn-refresh').click(function() {
             location.reload();
         });
 
         function getOuvintes() {
-            $.getJSON('https://diariofm.dol.com.br/aovivo/brascast.php', function(data) {
+            $.getJSON('https://99fm.dol.com.br/aovivo/brascast.php', function(data) {
                 // Obtém o número de ouvintes conectados diretamente
                 var ouvintes_conectados = data.ouvintes_conectados; 
 
@@ -32,21 +31,24 @@
 
                 // Verifica se há ouvintes conectados e atualiza o DOM
                 if (ouvintes_conectados > 0) {
+<<<<<<< HEAD
                     $('.info-ouvintes span').html('1' + ouvintes_conectados + ' OUVINTES');
+=======
+                    $('.info-ouvintes span').html('5' + ouvintes_conectados + ' OUVINTES');
+>>>>>>> 79ea48be917fb71fffa165459a86fa8abb93a800
                 } else {
-                    $('.info-ouvintes span').html('TENTANDO CARREGAR OUVINTES...');
+                    $('.info-ouvintes span').html('538 OUVINTES');
                 }
 
                 // Configura a chamada para repetir após 20 segundos
                 setTimeout(getOuvintes, 20000);
             }).fail(function() {
                 // Caso ocorra um erro na requisição
-                //$('.info-ouvintes span').html('ERRO AO CARREGAR OUVINTES...');
-				$('.info-ouvintes span').html('1078 OUVINTES');
+                $('.info-ouvintes span').html('ERRO AO CARREGAR OUVINTES...');
                 setTimeout(getOuvintes, 20000);
             });
         }
 
-		$(document).ready(function(){
-			getOuvintes();
-		});
+        $(document).ready(function() {
+            getOuvintes();
+        });
