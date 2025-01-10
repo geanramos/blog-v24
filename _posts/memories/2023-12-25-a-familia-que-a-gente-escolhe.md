@@ -1,5 +1,6 @@
 ---
 title: "A família que a gente escolher"
+description: "Uma história de amor e reconciliação entre gerações"
 date: "2023-12-25"
 tags: [memories]
 img: "https://substack-post-media.s3.amazonaws.com/public/images/e74211d0-9006-4358-9c64-c61c5af99165_640x421.jpeg"

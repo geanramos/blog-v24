@@ -1,11 +1,11 @@
 # Site settings
-title: The memories # site title
+title: Gean Ramos # site title
 description: >- # site description
   O lugar onde as histórias ganham vida!<br>
   Junte-se a nós para romances arrebatadores, reflexões profundas e muitos mais. 😊
 lang: pt-BR # default lang
 timezone: America/Belém # set your timezone
-image: https://gamehall.com.br/wp-content/uploads/2016/07/Natalie-Dormer-Pictures.jpg # This image used for Open Graph more info https://source.unsplash.com/random/600x400/?love-couple
+image: https://geanramos.com.br/img/capa.jpg # This image used for Open Graph more info https://source.unsplash.com/random/600x400/?love-couple
 repo: https://www.instagram.com/geanramus # site repo [optional]
 mode: light # default theme "dark" | "light"
 
