@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liberal FM - Castanhal | Live</title>
+
+    <!-- Certifique-se de que o caminho para o arquivo CSS esteja correto -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.7.8/plyr.min.css" integrity="sha512-uPqDOam5vjVgnASE75fCgMtdLa3oK2+3muDU5ESulSImHAA0Z0xjEnuJpKowTsXUWY09MsYre48zgBFwh2P/yw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        /* Reset básico para garantir que a página ocupe toda a tela */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font: 12px Roboto, Arial, sans-serif;
+            background-color: #000;
+            color: #fff;
+            height: 100vh; /* Ocupa 100% da altura da tela */
+            width: 100vw; /* Ocupa 100% da largura da tela */
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+        }
+
+        /* Tornando o player responsivo */
+        #player {
+            width: 100%;
+            height: auto;
+            max-width: 100%; /* Garante que o player nunca ultrapasse a largura da tela */
+            max-height: 100%; /* Garante que o player nunca ultrapasse a altura da tela */
+        }
+
+        h1 {
+            text-align: center;
+            color: #fff;
+            font-size: 2em; /* Tamanho maior para o título */
+            margin-bottom: 20px; /* Espaço abaixo do título */
+        }
+
+        h3 {
+            margin-top: 6px;
+            margin-bottom: 3px;
+        }
+
+        .player-unavailable {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            padding: 25px;
+            font-size: 13px;
+            background: url(/img/meh7.png) 50% 65% no-repeat;
+        }
+
+        .player-unavailable .message {
+            text-align: left;
+            margin: 0 -5px 15px;
+            padding: 0 5px 14px;
+            border-bottom: 1px solid #888;
+            font-size: 19px;
+            font-weight: normal;
+        }
+
+        .player-unavailable a {
+            color: #167ac6;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <video id="player" poster="libcast-live.jpg" controls>
+		<source src="https://www.grupoliberalmedia.com.br/radiotricaster/_definst_/ngrp:radiotricaster_all/playlist.m3u8" type="video/mp4" />
+        Seu navegador não suporta o elemento de vídeo.
+    </video>
+
+    <!-- Certifique-se de que o caminho para o arquivo JS esteja correto -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.7.8/plyr.min.js" integrity="sha512-vONptKEoKbP1gaC5UkbYDa9OPr04ur4bxaaqT7DAJxGHB2oogtseCPrl5e5hPFokGYotlGNV4d+GM593ka7iNA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+        // Inicializa o Plyr no player de vídeo
+        const player = new Plyr('#player');
+    </script>
+</body>
+</html>
