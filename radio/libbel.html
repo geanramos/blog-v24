@@ -42,8 +42,15 @@ location.href="http://geanramos.ddns.net/libbel.html";
     <link rel="shortcut icon" href="https://geanramos.com.br/radio/social-libcastanhal.jpg=w240-h480-rw">
     <script src="https://geanramos.com.br/radio/modernizr.custom.js"></script>
 	<style>
-	.bg { background: url(https://i1.wp.com/aovivo.radiomixfm.com.br/imagens/bg-escuro-player.jpg) center;}
-	
+	.bg {
+    background: url(https://i1.wp.com/aovivo.radiomixfm.com.br/imagens/bg-escuro-player.jpg) center;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    -webkit-filter: blur(1px);
+    filter: blur(1px)}
 	</style>
     <script>
       window.dataLayer = window.dataLayer || [];
