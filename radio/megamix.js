@@ -1,4 +1,5 @@
-        var source = "https://stream.zeno.fm/kbddsmlrjgjtv"
+		var source = "https://live.hunter.fm/rock_normal"
+		//var source = "https://stream.zeno.fm/kbddsmlrjgjtv"
         var audio = document.createElement("audio");
         audio.src = source;
         audio.onplaying = function () {
@@ -31,7 +32,7 @@
 
                 // Verifica se há ouvintes conectados e atualiza o DOM
                 if (ouvintes_conectados > 0) {
-                    $('.info-ouvintes span').html('3' + ouvintes_conectados + ' OUVINTES');
+                    $('.info-ouvintes span').html('8' + ouvintes_conectados + ' OUVINTES');
                 } else {
                     $('.info-ouvintes span').html('TENTANDO CARREGAR OUVINTES...');
                 }

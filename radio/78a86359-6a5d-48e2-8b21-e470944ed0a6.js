@@ -4,7 +4,7 @@
       "https://i1.wp.com/radiomixfm.com.br/wp-content/uploads/2021/08/botao-youtube-1.jpg",
       "https://i1.wp.com/aovivo.radiomixfm.com.br/imagens/bg-escuro-player.jpg?resize=360,90",
       "https://geanramos.com.br/img/fno.jpg",
-      "https://ntanet.org/wp-content/uploads/2021/09/NTA_2021_Banner_1029_256-360x90.png"
+      "https://i1.wp.com/tpc.googlesyndication.com/simgad/1182827443883241536?resize=360,90"
     ];
 
     // Array de URLs dos links correspondentes
@@ -13,7 +13,7 @@
       "https://www.youtube.com/radiomixfm?sub_confirmation=1",
       "https://geanramos.com.br/ig/",
       "https://geanramos.com.br/ig/",
-      "https://geanramos.com.br/ig/"
+      "https://www.change.org/p/manifesto-em-defesa-dos-o%C3%A1sis-de-not%C3%ADcias?utm_medium=radio&utm_source=geanramos.com.br"
     ];
 
     // Função para exibir um footer-banner aleatório
