@@ -2,7 +2,6 @@
     const imagens = [
       "https://geanramos.com.br/radio/img/fno-dinheiro.jpg",
       "https://geanramos.com.br/img/fno.jpg",
-      "https://i1.wp.com/tpc.googlesyndication.com/simgad/1182827443883241536?resize=360,90",
 	  "https://geanramos.com.br/radio/img/features1.jpg",
 "https://geanramos.com.br/radio/img/features2.jpg",
 "https://geanramos.com.br/radio/img/features3.jpg",
@@ -19,13 +18,12 @@
     const links = [
       "https://geanramos.com.br/ig/",
       "https://geanramos.com.br/ig/",
-      "https://www.change.org/p/manifesto-em-defesa-dos-o%C3%A1sis-de-not%C3%ADcias?utm_medium=radio&utm_source=geanramos.com.br",
-	  "https://geanramos.com.br/radio/bda.html",
+	  "https://geanramos.com.br/radio/pagode.html",
 "https://geanramos.com.br/radio/pop.html",
 "https://geanramos.com.br/radio/sertanejo.html",
 "https://geanramos.com.br/radio/hits-brasil.html",
 "https://geanramos.com.br/radio/gospel.html",
-"https://geanramos.com.br/radio/",
+"https://geanramos.com.br/radio/rock.html",
 "https://geanramos.com.br/radio/libcast.html",
 "https://geanramos.com.br/radio/libbel.html",
 "https://geanramos.com.br/radio/libmusic.html",
