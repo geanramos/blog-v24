@@ -9,22 +9,22 @@ body {
 }
 
 .bg {
-    background: url(https://geanramos.com.br/radio/bg-hr.jpg) center;
+    background: url(../img/bg.jpg) center;
     background-size: cover;
     position: absolute;
     width: 100%;
     height: 100%;
     z-index: 1;
-    /* -webkit-filter: blur(5px); */
-    /* filter: blur(5px); */
+    -webkit-filter: blur(1px);
+    filter: blur(1px);
 }
 
 .efeito-bg {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#30221a+0,140b04+100&0.8+0,0.9+100 */
-    background: -moz-linear-gradient(45deg,  rgba(10,2,2,0.9) 0%, rgba(51,27,27,0.8) 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg,  rgba(10,2,2,0.9) 0%,rgba(51,27,27,0.8) 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg,  rgba(10,2,2,0.9) 0%,rgba(51,27,27,0.8) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e60a0202', endColorstr='#cc331b1b',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    background: -moz-linear-gradient(45deg,  rgba(0,1,7,0.9) 0%, rgba(2,0,28,0.8) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg,  rgba(0,1,7,0.9) 0%,rgba(2,0,28,0.8) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg,  rgba(0,1,7,0.9) 0%,rgba(2,0,28,0.8) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6000107', endColorstr='#cc02001c',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     position: absolute;
     width: 100%;
     height: 100%;
@@ -71,11 +71,11 @@ body {
 
 .btn {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f9a519+0,ff8c40+100 */
-    background: rgb(136,76,76); /* Old browsers */
-    background: -moz-linear-gradient(45deg,  rgba(136,76,76,1) 0%, rgba(183,103,103,1) 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg,  rgba(136,76,76,1) 0%,rgba(183,103,103,1) 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg,  rgba(136,76,76,1) 0%,rgba(183,103,103,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#884c4c', endColorstr='#b76767',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    background: rgb(0,92,163); /* Old browsers */
+    background: -moz-linear-gradient(45deg,  rgba(0,92,163,1) 0%, rgba(0,119,193,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg,  rgba(0,92,163,1) 0%,rgba(0,119,193,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg,  rgba(0,92,163,1) 0%,rgba(0,119,193,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#005ca3', endColorstr='#0077c1',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     width: 50px;
     height: 50px;
     padding: 0;
@@ -174,7 +174,7 @@ body {
     width: 120px;
     height: 120px;
     display: inline-block;
-    background: #ae6161;
+    background: #005CA3;
     margin: 0px 0 0 -60px;
     border-radius: 50%;
     position: absolute;
@@ -230,7 +230,7 @@ body {
     position: absolute;
     width: 100%;
     text-align: center;
-    color: #ccc;
+    color: #005CA3;
     z-index: 3;
     top: 60%;
     font-size: 15px;
