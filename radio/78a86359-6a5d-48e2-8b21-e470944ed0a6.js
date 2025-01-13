@@ -12,6 +12,13 @@
 "https://geanramos.com.br/radio/img/features8.jpg",
 "https://geanramos.com.br/radio/img/features9.jpg",
 "https://geanramos.com.br/radio/img/features10.jpg",
+
+"https://geanramos.com.br/radio/img/pisadinha.jpg",
+"https://geanramos.com.br/radio/img/tropical.jpg",
+"https://geanramos.com.br/radio/img/pop2k.jpg",
+"https://geanramos.com.br/radio/img/lo-fi.jpg",
+"https://geanramos.com.br/radio/img/megamix.jpg",
+"https://geanramos.com.br/radio/img/boteco-dos-amigos.jpg",
     ];
 
     // Array de URLs dos links correspondentes
@@ -28,6 +35,13 @@
 "https://geanramos.com.br/radio/libbel.html",
 "https://geanramos.com.br/radio/libmusic.html",
 "https://geanramos.com.br/radio/mixfm.html",
+
+"https://geanramos.com.br/radio/pisadinha.html",
+"https://geanramos.com.br/radio/tropical.html",
+"https://geanramos.com.br/radio/pop2k.html",
+"https://geanramos.com.br/radio/lofi.html",
+"https://geanramos.com.br/radio/",
+"https://geanramos.com.br/radio/bda.html",
     ];
 
     // Função para exibir um footer-banner aleatório
