@@ -32,7 +32,7 @@
 
                 // Verifica se há ouvintes conectados e atualiza o DOM
                 if (ouvintes_conectados > 0) {
-                    $('.info-ouvintes span').html('1' + ouvintes_conectados + ' OUVINTES');
+                    $('.info-ouvintes span').html('3' + ouvintes_conectados + ' OUVINTES');
                 } else {
                     $('.info-ouvintes span').html('TENTANDO CARREGAR OUVINTES...');
                 }
