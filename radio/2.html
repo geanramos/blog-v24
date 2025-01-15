@@ -4,47 +4,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ouvintes Conectados</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
-        // Função para buscar o valor de "ouvintes_conectados" e multiplicar por 10
-        async function obterOuvintes() {
-            try {
-                // Requisição para pegar os dados do JSON
-                const response = await fetch('https://99fm.dol.com.br/aovivo/brascast.php');
-                
-                // Verifica se a resposta foi bem-sucedida (status 200)
-                if (!response.ok) {
-                    throw new Error('Erro ao buscar dados');
-                }
+                function getOuvintes() {
+            $.getJSON('https://99fm.dol.com.br/aovivo/brascast.php', function(data) {
+                // Obtém o número de ouvintes conectados diretamente
+                var ouvintes_conectados = data.ouvintes_conectados; 
 
-                // Converte o corpo da resposta para JSON
-                const data = await response.json();
+                var ouvintes_conectados = ouvintes_conectados * 7;
 
-                // Verifica se o campo "ouvintes_conectados" existe
-                if (data && data.ouvintes_conectados !== undefined) {
-                    const ouvintes = data.ouvintes_conectados;
-                    const ouvintesMultiplicados = ouvintes * 10;
+                console.log('ouvintes_conectados', ouvintes_conectados);
 
-                    // Exibe o resultado no console
-                    console.log(`Ouvintes conectados multiplicados: ${ouvintesMultiplicados}`);
-
-                    // Exibe o novo valor na página
-                    document.getElementById('resultado').textContent = `Ouvintes Conectados Multiplicados: ${ouvintesMultiplicados}`;
+                // Verifica se há ouvintes conectados e atualiza o DOM
+                if (ouvintes_conectados > 0) {
+                    $('.info-ouvintes span').html(ouvintes_conectados + ' OUVINTES');
                 } else {
-                    console.error("O campo 'ouvintes_conectados' não foi encontrado.");
+                    $('.info-ouvintes span').html('TENTANDO CARREGAR OUVINTES...');
                 }
-            } catch (error) {
-                console.error('Erro ao buscar dados:', error);
-            }
+
+                // Configura a chamada para repetir após 20 segundos
+                setTimeout(getOuvintes, 20000);
+            }).fail(function() {
+                // Caso ocorra um erro na requisição
+                $('.info-ouvintes span').html('TENTANDO CARREGAR OUVINTES...');
+                setTimeout(getOuvintes, 20000);
+            });
         }
 
-        // Chama a função assim que a página for carregada
-        window.onload = () => {
-            obterOuvintes();
-        };
+        $(document).ready(function(){
+            getOuvintes();
+        });
     </script>
 </head>
 <body>
-    <h1>Verificando Ouvintes Conectados</h1>
-    <p id="resultado">Carregando...</p> <!-- O resultado será exibido aqui -->
+    <h1>Ouvintes Conectados</h1>
+    <div class="info-ouvintes">
+        <p><span>Carregando ouvintes...</span></p>
+    </div>
 </body>
 </html>
