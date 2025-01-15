@@ -1,7 +1,7 @@
     // Array de URLs das imagens
     const imagens = [
       "https://geanramos.com.br/radio/img/ads-fastmoney.jpg",
-      "https://geanramos.com.br/img/ads-fastmoney2.jpg",
+      "https://geanramos.com.br/radio/img/ads-fastmoney2.jpg",
 	  "https://geanramos.com.br/radio/img/features1.jpg",
 "https://geanramos.com.br/radio/img/features2.jpg",
 "https://geanramos.com.br/radio/img/features3.jpg",
