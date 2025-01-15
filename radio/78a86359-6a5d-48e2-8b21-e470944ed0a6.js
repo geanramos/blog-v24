@@ -30,8 +30,8 @@
 
     // Array de URLs dos links correspondentes
     const links = [
-      "https://geanramos.com.br/ig/",
-      "https://geanramos.com.br/ig/",
+      "https://go.hotmart.com/A1939024g?ap=a838&src=radio",
+      "https://go.hotmart.com/A1939024g?ap=a838&src=radio",
 	  "https://geanramos.com.br/radio/pagode.html",
 "https://geanramos.com.br/radio/pop.html",
 "https://geanramos.com.br/radio/sertanejo.html",
@@ -52,10 +52,10 @@
 
 "https://geanramos.com.br/ig/",
 "https://geanramos.com.br/ig/",
-"https://geanramos.com.br/ig/",
-"https://geanramos.com.br/ig/",
-"https://geanramos.com.br/ig/",
-"https://geanramos.com.br/ig/",
+"https://go.hotmart.com/A1939024g?ap=06c5&src=radio",
+"https://go.hotmart.com/A1939024g?ap=06c5&src=radio",
+"https://go.hotmart.com/A1939024g?ap=0fbe&src=radio",
+"https://go.hotmart.com/A1939024g?ap=0fbe&src=radio",
     ];
 
     // Função para exibir um footer-banner aleatório
