@@ -1,7 +1,7 @@
     // Array de URLs das imagens
     const imagens = [
-      "https://geanramos.com.br/radio/img/fno-dinheiro.jpg",
-      "https://geanramos.com.br/img/fno.jpg",
+      "https://geanramos.com.br/radio/img/ads-fastmoney.jpg",
+      "https://geanramos.com.br/img/ads-fastmoney2.jpg",
 	  "https://geanramos.com.br/radio/img/features1.jpg",
 "https://geanramos.com.br/radio/img/features2.jpg",
 "https://geanramos.com.br/radio/img/features3.jpg",
@@ -19,6 +19,13 @@
 "https://geanramos.com.br/radio/img/lo-fi.jpg",
 "https://geanramos.com.br/radio/img/megamix.jpg",
 "https://geanramos.com.br/radio/img/boteco-dos-amigos.jpg",
+
+"https://geanramos.com.br/radio/img/ads-profissao-afiliado.jpg",
+"https://geanramos.com.br/radio/img/ads-profissao-afiliado2.jpg",
+"https://geanramos.com.br/radio/img/ads-profissao-afiliado3.jpg",
+"https://geanramos.com.br/radio/img/ads-profissao-afiliado4.jpg",
+"https://geanramos.com.br/radio/img/ads-profissao-afiliado5.jpg",
+"https://geanramos.com.br/radio/img/ads-profissao-afiliado6.jpg",
     ];
 
     // Array de URLs dos links correspondentes
@@ -42,6 +49,13 @@
 "https://geanramos.com.br/radio/lofi.html",
 "https://geanramos.com.br/radio/",
 "https://geanramos.com.br/radio/bda.html",
+
+"https://geanramos.com.br/ig/",
+"https://geanramos.com.br/ig/",
+"https://geanramos.com.br/ig/",
+"https://geanramos.com.br/ig/",
+"https://geanramos.com.br/ig/",
+"https://geanramos.com.br/ig/",
     ];
 
     // Função para exibir um footer-banner aleatório
