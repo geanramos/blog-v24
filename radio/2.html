@@ -10,20 +10,25 @@
             try {
                 // Requisição para pegar os dados do JSON
                 const response = await fetch('https://99fm.dol.com.br/aovivo/brascast.php');
+                
+                // Verifica se a resposta foi bem-sucedida (status 200)
+                if (!response.ok) {
+                    throw new Error('Erro ao buscar dados');
+                }
+
+                // Converte o corpo da resposta para JSON
                 const data = await response.json();
 
                 // Verifica se o campo "ouvintes_conectados" existe
-                if (data.ouvintes_conectados !== undefined) {
+                if (data && data.ouvintes_conectados !== undefined) {
                     const ouvintes = data.ouvintes_conectados;
                     const ouvintesMultiplicados = ouvintes * 10;
 
-                    // Exibe o novo valor no console
+                    // Exibe o resultado no console
                     console.log(`Ouvintes conectados multiplicados: ${ouvintesMultiplicados}`);
 
-                    // Retorna o novo objeto com o valor multiplicado
-                    return {
-                        ouvintes_conectados: ouvintesMultiplicados
-                    };
+                    // Exibe o novo valor na página
+                    document.getElementById('resultado').textContent = `Ouvintes Conectados Multiplicados: ${ouvintesMultiplicados}`;
                 } else {
                     console.error("O campo 'ouvintes_conectados' não foi encontrado.");
                 }
@@ -33,16 +38,13 @@
         }
 
         // Chama a função assim que a página for carregada
-        window.onload = async () => {
-            const resultado = await obterOuvintes();
-            if (resultado) {
-                console.log("Resultado final: ", resultado);
-            }
+        window.onload = () => {
+            obterOuvintes();
         };
     </script>
 </head>
 <body>
     <h1>Verificando Ouvintes Conectados</h1>
-    <p>Abra o console para ver o valor multiplicado.</p>
+    <p id="resultado">Carregando...</p> <!-- O resultado será exibido aqui -->
 </body>
 </html>
