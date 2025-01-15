@@ -18,7 +18,7 @@
 "https://geanramos.com.br/radio/img/pop2k.jpg",
 "https://geanramos.com.br/radio/img/lo-fi.jpg",
 "https://geanramos.com.br/radio/img/megamix.jpg",
-"https://geanramos.com.br/radio/img/boteco-dos-amigos.jpg",
+"https://geanramos.com.br/radio/img/boteco.jpg",
 
 "https://geanramos.com.br/radio/img/ads-profissao-afiliado.jpg",
 "https://geanramos.com.br/radio/img/ads-profissao-afiliado2.jpg",
@@ -48,7 +48,7 @@
 "https://geanramos.com.br/radio/pop2k.html",
 "https://geanramos.com.br/radio/lofi.html",
 "https://geanramos.com.br/radio/",
-"https://geanramos.com.br/radio/bda.html",
+"https://geanramos.com.br/radio/boteco.html",
 
 "https://geanramos.com.br/ig/",
 "https://geanramos.com.br/ig/",
