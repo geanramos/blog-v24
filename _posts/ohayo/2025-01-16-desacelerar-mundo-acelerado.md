@@ -15,7 +15,7 @@ Se você pudesse apagar todas as coisas difíceis que te aconteceram, você fari
 > correr tanto.
 
 
-![gean ramos - mundo acelerado](https://i.pinimg.com/originals/eb/76/7a/eb767a6c202905ef1eb423f99e23835a.gif)
+![gean ramos - mundo acelerado](https://i.gifer.com/DfSN.gif)
 
 Já sentiu que o tempo está passando tão rápido que você mal conseguiu terminar o primeiro café e já está na hora de dormir? **Já estamos na metade de janeiro**, gente!
 
