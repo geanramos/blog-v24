@@ -138,64 +138,63 @@
         // this is important for IEs
         var polyfilter_scriptpath = '/js/';
     </script>
-	<script>
-        // this is important for IEs
-        var polyfilter_scriptpath = '/js/';
-    </script>
     <script type="text/javascript">
-	// https://stream1.svrdedicado.org:8350/stream/1/
-	// https://directradios.net/proxy/evangelica?mp=/stream
+        //var source = "https://live.hunter.fm/gospel_normal"
         var source = "https://stream.zeno.fm/yxjfrz0xwzxtv"
         var audio = document.createElement("audio");
         audio.src = source;
-        audio.onplaying = function () {
+        audio.onplaying = function() {
             $(".dotted").show();
             $("#pauseBtn").show();
             $(".loading").hide();
             $(".load-hora").hide();
         }
-        $("#playBtn").click(function () {
+        $("#playBtn").click(function() {
             audio.play();
             $("#playBtn").hide();
             $(".loading").show();
         });
-        $("#pauseBtn").click(function () {
+        $("#pauseBtn").click(function() {
             audio.load();
             $("#pauseBtn").hide();
             $("#playBtn").show();
             $(".dotted").hide();
         });
-        $('.btn-refresh').click(function () {
+        $('.btn-refresh').click(function() {
             location.reload();
         });
 
         function getOuvintes() {
-//		  $.ajax({
-//              url: "//streamin.geanramos.com.br/radio/VkRCU2JrMVZOVzVRVkRBOStS=",
-//		  }).success(function( msg ) {
-//		    $('.info-ouvintes span').html(msg.ouvintes_online[0]+ ' OUVINTES');
-//		    setTimeout(getOuvintes, 20000);
-//		  }).fail(function () {
-//              $('.info-ouvintes span').html('CARREGANDO OUVINTES...');
-//		    setTimeout(getOuvintes, 20000);
-//		  });
-            $.getJSON('https://app.kshost.com.br/japi/9322', function(data) {
-                var ouvintes_conectados = data.ouvintes_conectados[0]; // Mostra total de ouvintes conectados
-                if (ouvintes_conectados > "") {
-                    $('.info-ouvintes span').html(ouvintes_conectados + ' OUVINTES');
-                    setTimeout(getOuvintes, 20000);
+            $.getJSON('https://diariofm.dol.com.br/aovivo/brascast.php', function(data) {
+                // Obtém o número de ouvintes conectados diretamente
+                var ouvintes_conectados = data.ouvintes_conectados; 
+
+                console.log(ouvintes_conectados);
+
+                // Verifica se há ouvintes conectados e atualiza o DOM
+                if (ouvintes_conectados > 0) {
+                    $('.info-ouvintes span').html('2' + ouvintes_conectados + ' OUVINTES');
                 } else {
-                    $('.info-ouvintes span').html('TENTANDO CARREGAR OUVINTES...');
-                    setTimeout(getOuvintes, 20000);
+                    $('.info-ouvintes span').html('238 OUVINTES');
                 }
+
+                // Configura a chamada para repetir após 20 segundos
+                setTimeout(getOuvintes, 20000);
+            }).fail(function() {
+                // Caso ocorra um erro na requisição
+                $('.info-ouvintes span').html('ERRO AO CARREGAR OUVINTES...');
+                setTimeout(getOuvintes, 20000);
             });
-		}
+        }
 
-		$(document).ready(function(){
-			getOuvintes();
-		});
-
+        $(document).ready(function() {
+            getOuvintes();
+        });
     </script>
-	<!--<script data-cfasync="false" async src="https://tags.premiumads.com.br/dfpg/5fbb181c-ff16-43de-cbe7-08db1a852102"></script>-->
+
+	<div id="footer-banner">
+    <!-- Banner do rodapé -->
+	</div>
+	<script data-cfasync="false" async src="78a86359-6a5d-48e2-8b21-e470944ed0a6.js?v250113"></script>
 </body>
 </html>
