@@ -11,6 +11,9 @@ image: "https://geanramos.com.br/img/desafios-e-vitorias.jpg"
 
 **A Maratona das Experiências**
 
+
+![Como a dor nos ensina lições valiosas e nos torna mais fortes](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
+
 É curioso como a experiência vem não só com as vitórias, mas principalmente com os desafios. Cada vez que a vida nos atinge (seja por uma decepção, uma perda, ou um erro monumental), ela nos dá uma nova "arma" — uma lição, uma nova perspectiva, uma força que nem sabíamos que tínhamos.
 
 Estranho, né? Quase irônico. Mas as feridas nos moldam, nos fazem crescer e, eventualmente, nos preparam para os desafios futuros. Olha só que bonito:
