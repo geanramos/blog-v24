@@ -32,28 +32,3 @@ O fato de você já refletir sobre isso mostra o quanto leva a sério a ideia de
 Se a vida te apresentar um desafio, ela também te ensinará a enfrentá-lo. Nem tudo está sob nosso controle, mas uma coisa está: o amor que você tem no coração e a disposição de aprender, crescer e se adaptar.
 
 Talvez, em vez de focar no "e se?", a resposta esteja em confiar que, seja como for, você será capaz de ser a mãe que seu filho precisa — com todas as imperfeições e aprendizados que isso envolve. ❤️
-
----
-
-### Descrições (AIDA)
-1. **Lidar com o luto e a tristeza prolongada: como seguir em frente.**
-2. **Medo de ter filhos? Enfrente as incertezas com confiança.**
-3. **Superando o luto e encontrando novas formas de honrar os entes queridos.**
-4. **Descubra como enfrentar o medo e a insegurança de ser mãe.**
-5. **Aprender com a dor e confiar no futuro: lições de vida.**
-
-### Títulos (AIDA)
-1. **Luto Prolongado? Como Seguir em Frente**
-2. **Medo de ser mãe? Vamos conversar!**
-3. **Superando o Luto: Dicas e Reflexões**
-4. **Enfrentando Medos na Jornada da Maternidade**
-5. **Confiar no Futuro: Vencendo Medos e Incertezas**
-
-### Palavras-Chave
-1. Luto
-2. Tristeza
-3. Medo
-4. Maternidade
-5. Superação
-
-Pronto! O que achou das mudanças? Preparado para compartilhar suas reflexões no Medium e tocar o coração dos leitores? 🌟📚
