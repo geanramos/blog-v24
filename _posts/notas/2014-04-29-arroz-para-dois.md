@@ -9,7 +9,7 @@ image: "https://geanramos.com.br/img/arroz-para-dois.jpg"
 
 ![Gean Ramos - Arroz pra Dois: A Nova Jornada.](https://geanramos.com.br/img/arroz-para-dois.jpg)
 
-> **Nenhum Homem é uma Ilha... Já Ouviu Isso?**
+> Nenhum Homem é uma Ilha... Já Ouviu Isso?
 
 Quando escutava a famosa citação de ***John Donne, “nenhum homem é uma ilha”,*** sempre dava de ombros. Pensei que era balela, bobagem. Quem não consegue ficar bem sozinho, né? **Pois é, eu pensava assim.**
 
