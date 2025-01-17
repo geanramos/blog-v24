@@ -8,8 +8,8 @@ image: "https://i1.wp.com/image.tmdb.org/t/p/original/8qJyfMnEBuYF8XnyY2sVNtOhd8
 ---
 
 ![**A Caminhada na Vida: Importam Mais os Desvios](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
-**Nem Sempre Importa pra Onde Você Está Indo**
 
+**Nem Sempre Importa pra Onde Você Está Indo**
 É, às vezes, é **como você caminha** que define o destino.
 
 ![Gean Ramos - Entenda que os "erros" de percurso são a vida acontecendo: aproveite o caminho.](https://media.giphy.com/media/x1WhTqgYWngdO/giphy.gif)
