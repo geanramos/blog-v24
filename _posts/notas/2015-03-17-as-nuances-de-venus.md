@@ -7,7 +7,7 @@ tags: [blogger]
 image: "https://geanramos.com.br/img/amor-proprio-e-relacionamento.jpg"
 ---
 
-![gean ramos - Amor Próprio e Relacionamento: Um Guia de Sobrevivência](amor-proprio-e-relacionamento.jpg)
+![gean ramos - Amor Próprio e Relacionamento: Um Guia de Sobrevivência](https://geanramos.com.br/img/amor-proprio-e-relacionamento.jpg)
 
 Querida, precisamos falar sobre **relacionamentos doentes**. Sabe aqueles que roubam seu brilho? Te fazem refém, como se seu coração gritasse para sair dessa? Você não merece ouvir desaforos, absurdos, ou confinada no antiquado "lugar da mulher". Quem ousa apagar sua ousadia e beleza selvagem não merece seu tempo. Que homem é esse que joga palavras como socos? Ah, isso é covardia, não coragem. Deixa essa insegurança pra lá. Quem vê além do que é amor de verdade vai te aceitar do jeitinho que você é.
 
