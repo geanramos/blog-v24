@@ -17,7 +17,7 @@ E esse papo de "com quem você vai", "quantos ex"? Sério, tem importância? Nã
 
 Agora, vamos falar dos **relacionamentos saudáveis**. Aquele que não se importa com o tamanho da sua saia, mas sim com a luz desse seu sorriso. Já recebeu uma ligação dizendo que pode beber tranquila porque ele vai te esperar acordado? 
 
-*“Quem ama, cuida!”*
+> *“Quem ama, cuida!”*
 
 A única bagunça que ele quer ver em você é a do vento no seu cabelo. Peso, cor, tamanho do peito ou da bunda? Nada disso importa. O amor verdadeiro desmonta todas as "verdades" que nos contam. Existe maior beleza do que um homem que te admira de calcinha larga, toalha na cabeça e uma lixa de unha na mão? Eu também acho que não.
 
