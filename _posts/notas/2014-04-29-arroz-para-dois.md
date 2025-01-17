@@ -1,10 +1,9 @@
-
 ---
 title: "A Beleza de Compartilhar a Vida"
 date: 2014-04-29 06:01:00 -03:00
 description: "De arroz pra um a arroz pra dois: a jornada de um coração."
 categories: blogger
-tags: [blogger, erros novos]
+tags: [erros novos]
 image: "https://geanramos.com.br/img/arroz-para-dois.jpg"
 ---
 
