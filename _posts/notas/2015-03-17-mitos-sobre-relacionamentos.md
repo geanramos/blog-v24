@@ -3,7 +3,7 @@ title: "Verdades e Mitos sobre Relacionamentos"
 date: 2015-03-17 06:01:00 -03:00
 description: "Relacionamentos intensos: dores e delícias do amor contemporâneo."
 categories: blogger
-tags: [blogger]
+tags: [blogger, erros novos]
 image: "https://geanramos.com.br/img/amor-proprio-e-relacionamento.jpg"
 ---
 
