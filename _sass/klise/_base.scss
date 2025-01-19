@@ -294,12 +294,12 @@ blockquote:before {
 blockquote::after {
     content: "";
     top: 10px;
-    left: 40%;
+    left: 50%;
     margin-left: -100px;
     position: absolute;
     border-bottom: 3px solid #ccc;
     height: 3px;
-    width: 350px;
+    width: 200px;
 }
 
 
