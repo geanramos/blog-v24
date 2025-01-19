@@ -43,9 +43,6 @@ figure {
 
 // Basic styling
 body {
-  /* background-image:url(https://cdn.jsdelivr.net/gh/xukimseven/xukimseven.github.io/assets/bak.svg); */
-  background-size: 100% auto;
-  background-attachment: fixed;
   min-height: 100vh;
   overflow-x: hidden;
   position: relative;
@@ -84,8 +81,8 @@ figure,
 // strong | bold
 strong,
 b {
-  font-weight: 600;
-    /* color:#0d122b; */
+  font-weight: $bold-weight;
+  color: $black;
 }
 
 // horizontal rule
@@ -119,7 +116,6 @@ img {
   -webkit-user-drag: none;
   margin: 0 auto;
   text-align: center;
-  border-radius: 8px;
 }
 
 // Figure
@@ -139,24 +135,22 @@ figcaption {
   text-align: center;
 }
 
-/* List */
+// List
 ul {
   list-style: none;
-  padding-left: 1.3em; /* Adiciona um padding à esquerda para acomodar os marcadores personalizados */
-}
-
-ul li {
-  position: relative; /* Necessário para posicionar o marcador */
-  padding-left: 1.2em; /* Adiciona espaço para o marcador */
-}
-
-ul li::before {
-  content: "\2022"; /* Usa um marcador de lista padrão (•) */
-  position: absolute; /* Posiciona o marcador */
-  left: 0; /* Marca a posição do marcador */
-  font-weight: 700;
-  font-size: 1em; /* Ajusta o tamanho do marcador */
-  color: #000; /* Define a cor do marcador */
+  li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+  }
+  li::before {
+    content: "\FE63";
+    display: inline-block;
+    top: -1px;
+    width: 1.2em;
+    position: relative;
+    margin-left: -1.3em;
+    font-weight: 700;
+  }
 }
 
 ol {
@@ -187,6 +181,7 @@ ol {
 
 li {
   padding-bottom: 1px;
+  padding-top: 1px;
 
   &:before {
     color: $black;
@@ -261,14 +256,12 @@ em {
 
 // Blockquotes
 blockquote {
-	background: #FFF9C4;
-    border-radius: 8px;
-  color: #FF5722;
+  color: $gray;
   font-style: italic;
   text-align: center;
   opacity: 0.9;
-  border-top: 1px solid #FFEB3B;
-  border-bottom: 1px solid #FFEB3B;
+  border-top: 1px solid $light;
+  border-bottom: 1px solid $light;
   padding: 10px;
   margin-left: 10px;
   margin-right: 10px;
