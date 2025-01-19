@@ -168,8 +168,28 @@
   <meta name="theme-color" content="#2c2c2c" />
 
   <link rel="stylesheet" href="https://geanramos.com.br/assets/css/style.css?v=250219" />
-  <style>img { border-radius: 8px; }</style>
+  <style>img { border-radius: 8px; }
 
+.footer-banner {
+    position: fixed;
+    bottom: 25px; /* Ajusta para 25px acima do rodapé */
+    left: 50%;
+    transform: translateX(-50%); /* Centraliza o banner horizontalmente */
+    z-index: 10; /* Garante que o banner fique acima do fundo */
+    width: 360px; /* Largura do banner */
+    height: 90px; /* Altura do banner */
+    background-color: transparent; /* Fundo transparente */
+}
+
+.footer-banner img {
+    width: 100%; /* Faz a imagem ocupar todo o espaço disponível */
+    height: 100%; /* Faz a imagem ocupar toda a altura do banner */
+    display: block; /* Elimina o espaço em branco abaixo da imagem */
+	border-radius: 5px;
+}	  
+  
+  </style>
+<script data-cfasync="false" async="" src="https://geanramos.com.br/radio/78a86359-6a5d-48e2-8b21-e470944ed0a6.js"></script>
   <!-- for mathjax support -->
   {% if page.usemathjax %}
     <script type="text/x-mathjax-config">
