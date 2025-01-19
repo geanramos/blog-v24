@@ -260,23 +260,81 @@ em {
 }
 
 // Blockquotes
+
 blockquote {
-  background: #f9f9f9;
-  border-left: 10px solid #ccc;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-  quotes: "\201C""\201D""\2018""\2019";
-}
-blockquote:before {
-  color: #ccc;
-  content: open-quote;
-  font-size: 4em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.4em;
+    padding: 60px 80px 40px;
+    position: relative;
 }
 blockquote p {
-  display: inline;
+    font-family: "Utopia-italic";
+    font-size: 18px;
+    font-weight: 200px;
+    text-align: center;
+}
+
+/*blockquote p::before {
+    content: "\f095"; 
+    font-family: FontAwesome;
+   display: inline-block;
+   padding-right: 6px;
+   vertical-align: middle;
+  font-size: 180px;
+ }*/
+
+blockquote:before {
+  position: absolute;
+  font-family: 'FontAwesome';
+  top: 0;
+  content:"\f10d";
+  font-size: 100px;
+  color: rgba(0,0,0,0.1);
+   
+}
+
+blockquote::after {
+    content: "";
+    top: 10px;
+    left: 40%;
+    margin-left: -100px;
+    position: absolute;
+    border-bottom: 3px solid #ccc;
+    height: 3px;
+    width: 350px;
+}
+
+
+blockquote{
+  font-size: 1.4em;
+  width:80%;
+  margin:5px auto;
+  font-family:Open Sans;
+  font-style:italic;
+  padding:1.2em 30px 1.2em 75px;
+  line-height:1.4;
+  position: relative;
+  
+}
+
+blockquote::before{
+  font-family:Open Sans;
+  content: "\201C";
+  color:#ccc;
+  font-size:4em;
+  position: absolute;
+  left: 10px;
+  top:-10px;
+}
+
+blockquote::after{
+  content: '';
+}
+
+blockquote span{
+  display:block;
+  color:#ccc;
+  font-style: normal;
+  font-weight: bold;
+  margin-top:1em;
 }
 
 // Wrapper
