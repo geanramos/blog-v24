@@ -110,14 +110,14 @@ body[data-theme="dark"] {
 
   // Blockquote
   blockquote {
-    color: #FF5722;
-    border-color: #FFEB3B;
+    color: $dark-gray;
+    border-color: $dark-light;
   }
 
   // Strong, Bold
   strong,
   b {
-    /* color: $dark-white; */
+    color: $dark-white;
   }
 
   // Navbar
