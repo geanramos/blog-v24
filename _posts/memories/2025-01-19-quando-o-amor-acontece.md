@@ -1,13 +1,13 @@
 ---
 title: "Quando o Amor Acontece sem Planejar"
 date: 2025-01-19 05:01:00 -03:00
-description: "De um simples "bom dia" a um pedido de namoro espontâneo — a história de Beatriz e Eduardo é pura inspiração"
+description: "De um simples bom dia a um pedido de namoro espontâneo — a história de Beatriz e Eduardo é pura inspiração"
 categories: blogger
 tags: [memories]
 image: "https://instagram.fbel6-1.fna.fbcdn.net/v/t51.2885-15/474017444_18024736319635034_1839623528658903036_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.fbel6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ZvAGIJwVTH8Q7kNvgGxoJ3R&_nc_gid=d15b86d4ae30411ebabde547c803a782&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYDnwXpIpQ7mBLhVH8YJJYHHebAHMn36k3zemXVAp6rCoQ&oe=6792BFFE&_nc_sid=d885a2"
 ---
 
-![Gean Ramos - Como Uma Mensagem no Instagram Transformou Tudo /p/DE5oKhFR6ay.](https://instagram.fbel6-1.fna.fbcdn.net/v/t51.2885-15/474017444_18024736319635034_1839623528658903036_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.fbel6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ZvAGIJwVTH8Q7kNvgGxoJ3R&_nc_gid=d15b86d4ae30411ebabde547c803a782&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYDnwXpIpQ7mBLhVH8YJJYHHebAHMn36k3zemXVAp6rCoQ&oe=6792BFFE&_nc_sid=d885a2)
+![Gean Ramos - Como Uma Mensagem no Instagram Transformou Tudo DE5oKhFR6ay.](https://instagram.fbel6-1.fna.fbcdn.net/v/t51.2885-15/474017444_18024736319635034_1839623528658903036_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.fbel6-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ZvAGIJwVTH8Q7kNvgGxoJ3R&_nc_gid=d15b86d4ae30411ebabde547c803a782&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYDnwXpIpQ7mBLhVH8YJJYHHebAHMn36k3zemXVAp6rCoQ&oe=6792BFFE&_nc_sid=d885a2)
 
 **A História de Eduardo e Beatriz: Amor com Humor e Surpresas**
 
