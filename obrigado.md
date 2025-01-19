@@ -6,8 +6,6 @@ excerpt: Graças às pessoas incríveis que conheci, que me ajudaram a sair da i
 comments: false
 ---
 
-### Agradecimentos
-
 A gratidão é um dos sentimentos mais puros e transformadores que podemos experimentar. Quando reflito sobre a minha trajetória, percebo que tudo o que alcancei é resultado não apenas dos meus esforços, mas também do apoio, dos ensinamentos e do carinho das pessoas que cruzaram o meu caminho. Este espaço é dedicado a elas, como forma de reconhecer e celebrar suas contribuições na minha vida.
 
 Em primeiro lugar, gostaria de agradecer às pessoas incríveis que tive o privilégio de conhecer ao longo dos anos. Cada uma delas, com suas experiências, visões de mundo e palavras de sabedoria, me ajudou a enxergar a vida de maneira mais ampla e significativa. Foi através dessas conexões que pude sair da insensatez e encontrar um caminho mais iluminado e equilibrado.
