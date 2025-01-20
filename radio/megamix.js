@@ -1,5 +1,5 @@
-		//var source = "https://live.hunter.fm/rock_normal"
-		var source = "https://stream.zeno.fm/kbddsmlrjgjtv"
+	//var source = "https://live.hunter.fm/rock_normal"
+	var source = "https://stream.zeno.fm/kbddsmlrjgjtv"
         var audio = document.createElement("audio");
         audio.src = source;
         audio.onplaying = function () {
@@ -24,11 +24,11 @@
         });
 
         function getOuvintes() {
-            $.getJSON('https://99fm.dol.com.br/aovivo/brascast.php', function(data) {
+            $.getJSON('http://geanramos.42web.io/8d90901c-4d1b-4b79-b61d-9ba88460e614.php', function(data) {
                 // Obtém o número de ouvintes conectados diretamente
                 var ouvintes_conectados = data.ouvintes_conectados; 
 
-                var ouvintes_conectados = ouvintes_conectados * 17;
+                var ouvintes_conectados = ouvintes_conectados * 9;
 
                 console.log('ouvintes_conectados', ouvintes_conectados);
 
