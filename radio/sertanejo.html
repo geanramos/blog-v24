@@ -162,7 +162,7 @@
         });
 
         function getOuvintes() {
-            $.getJSON('https://99fm.dol.com.br/aovivo/brascast.php', function(data) {
+            $.getJSON('http://geanramos.42web.io/8d90901c-4d1b-4b79-b61d-9ba88460e614.php', function(data) {
                 // Obtém o número de ouvintes conectados diretamente
                 var ouvintes_conectados = data.ouvintes_conectados; 
 
@@ -170,7 +170,7 @@
 
                 // Verifica se há ouvintes conectados e atualiza o DOM
                 if (ouvintes_conectados > 0) {
-                    $('.info-ouvintes span').html('8' + ouvintes_conectados + ' OUVINTES');
+                    $('.info-ouvintes span').html('3' + ouvintes_conectados + ' OUVINTES');
                 } else {
                     $('.info-ouvintes span').html('3267 OUVINTES');
 					//$('.info-ouvintes span').html('TENTANDO CARREGAR OUVINTES...');
