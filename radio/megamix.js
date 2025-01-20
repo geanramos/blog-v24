@@ -28,7 +28,7 @@
                 // Obtém o número de ouvintes conectados diretamente
                 var ouvintes_conectados = data.ouvintes_conectados; 
 
-                var ouvintes_conectados = ouvintes_conectados * 9;
+                var ouvintes_conectados = ouvintes_conectados * 5;
 
                 console.log('ouvintes_conectados', ouvintes_conectados);
 
