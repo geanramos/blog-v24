@@ -1,0 +1,1 @@
+var _0x50b7=["\x4F\x6C\xE1\x2C\x20","\x21","\x6C\x6F\x67"];function saudacao(_0x3e03x2){console[_0x50b7[2]](_0x50b7[0]+_0x3e03x2+_0x50b7[1])}Cópia não autorizada. Direitos autorais reservados.("\x47\x65\x61\x6E");
