@@ -12,6 +12,7 @@
       "https://geanramos.com.br/radio/img/ig-atlantico.jpg",
       "https://geanramos.com.br/radio/img/zap-atlantico.jpg",
       "https://geanramos.com.br/radio/img/fb-atlantico.jpg",
+      "https://geanramos.com.br/radio/img/anuncie.jpg",
       ];
 
     // Array de URLs dos links correspondentes
@@ -28,6 +29,7 @@
     "https://www.instagram.com/radioatlanticofm/",
     "https://wa.me/559185902363",
     "https://www.facebook.com/atlanticofm105/",
+    "https://api. whatsapp.com/send?phone=5555918590236&text=Ol%C3%A1,%20quero%20anunciar%20no%20rodap%C3%A9%20do%20player%20https://geanramos.com.br/atlanticofm%0A%0AQuais%20s%C3%A3o%20os%20valores?",
     ];
 
     // Funcao para exibir um footer-banner aleatorio
