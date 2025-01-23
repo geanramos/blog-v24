@@ -46,6 +46,6 @@
     // Chama a funÃ§Ã£o ao carregar a pagina
     mostrarbannerAleatorio();
 
-    // FunÃ§Ã£o para trocar o banner a cada 5 segundos
-    setInterval(mostrarbannerAleatorio, 5000); // Troca de banner a cada 5000 milissegundos (5 segundos)
+    // FunÃ§Ã£o para trocar o banner a cada 10 segundos
+    setInterval(mostrarbannerAleatorio, 10000); // Troca de banner a cada 10000 milissegundos (10 segundos)
   
