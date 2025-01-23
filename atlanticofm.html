@@ -162,7 +162,7 @@
         });
 
         function getOuvintes() {
-            $.getJSON('brascast.php', function(data) {
+            $.getJSON('https://geanramos.42web.io/brascast.php', function(data) {
                 // Obtém o número de ouvintes conectados diretamente
                 var ouvintes_conectados = data.ouvintes_conectados; 
                 var ouvintes_conectados = ouvintes_conectados * 1;
@@ -171,7 +171,7 @@
                 if (ouvintes_conectados > 0) {
                     $('.info-ouvintes span').html(ouvintes_conectados + ' OUVINTES');
                 } else {
-                    $('.info-ouvintes span').html('TENTANDO CARREGAR OUVINTES...');
+                    $('.info-ouvintes span').html('152 OUVINTES');
                 }
                 // Configura a chamada para repetir após 20 segundos
                 setTimeout(getOuvintes, 20000);
@@ -185,10 +185,8 @@
 			getOuvintes();
 		});
     </script>
-
 	<div id="footer-banner">
-    <!-- Banner do rodapé -->
 	</div>
-	<script data-cfasync="false" async src="78a86359-6a5d-48e2-8b21-e470944ed0a6.js?v250113"></script>
+	<script data-cfasync="false" async src="https://geanramos.com.br/radio/78a86359-6a5d-48e2-8b21-e470944ed0a6.js?v250113"></script>
 </body>
 </html>
