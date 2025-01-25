@@ -7,10 +7,6 @@ tags: [ohayo]
 image: "https://i1.wp.com/img.freepik.com/free-photo/sad-thoughtful-anxious-woman-listening-music-using-smartphone_482257-19436.jpg?resize=720,405"
 ---
 
-Claro! Vamos transformar esse texto num bate-papo bem leve e descontraído. Vou fazer as alterações solicitadas, adicionar um toque de humor e destacar algumas partes estratégicas. Confira a versão revisada abaixo:
-
----
-
 ![Gean Ramos - Transforme desafios em oportunidades e veja como a zona de conforto pode ser sua aliada!](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
 ### Ampliando a Zona de Conforto: Um Passo de Cada Vez
 
