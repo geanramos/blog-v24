@@ -1,6 +1,6 @@
 ---
 title: "Expectativas vs. Realidade: O Valor do Desapego"
-date: 2026-01-26 05:01:00 -03:00
+date: 2025-01-26 05:01:00 -03:00
 description: "Como desapegar das expectativas pode nos trazer paz e satisfação."
 categories: blogger
 tags: [memories]
