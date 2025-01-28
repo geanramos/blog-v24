@@ -2,11 +2,12 @@
 title: "Minha Menina"
 date: "2022-10-08"
 description: "Era uma manhã chuvosa de terça-feira, e a professora Luana estava tendo mais um dia corrido"
+categories: blogger
 tags: [memories]
-categories: [memories]
+image: "[https://i1.wp.com/img.freepik.com/fotos-premium/menina-crianca-cheirando-uma-flor-de-peonia_561751-101.jpg?resize=600,338"](https://i1.wp.com/images.squarespace-cdn.com/content/v1/5b65d763fcf7fd7d0c65108e/1552439990937-KV73BATB6938QS6WH230/the+best+board+books+to+give+at+baby+showers.jpeg?resize=600,338)
 ---
 
-![](https://i1.wp.com/images.squarespace-cdn.com/content/v1/5b65d763fcf7fd7d0c65108e/1552439990937-KV73BATB6938QS6WH230/the+best+board+books+to+give+at+baby+showers.jpeg?format=800w&resize=800,450)
+![geanramos - Minha Menina](https://i1.wp.com/images.squarespace-cdn.com/content/v1/5b65d763fcf7fd7d0c65108e/1552439990937-KV73BATB6938QS6WH230/the+best+board+books+to+give+at+baby+showers.jpeg?resize=800,450)
 
 Era uma manhã chuvosa de terça-feira, e a **professora Luana** estava tendo mais um dia corrido. Presa em seus milhares de afazeres, ela pouco se comovia com o que já era rotina.
 
