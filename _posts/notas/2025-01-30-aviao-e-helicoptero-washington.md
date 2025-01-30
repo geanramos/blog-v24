@@ -69,3 +69,5 @@ Todos os 74 ocupantes da aeronave morreram, juntamente com quatro pessoas em ve�
 Acidentes graves de aviação são raros nos Estados Unidos. O último grande acidente registrado foi em 2009, quando um **voo da Colgan Air caiu em uma casa perto de Buffalo, Nova York, matando 49 pessoas a bordo.** Este recente desastre em Washington levanta novas questões sobre a segurança no espaço aéreo da capital e a necessidade de medidas rigorosas para evitar tais tragédias.
 
 Os olhos do mundo estão voltados para Washington enquanto os especialistas tentam desvendar como um sistema de espaço aéreo sofisticado permitiu que essa tragédia ocorresse. A investigação buscará respostas, enquanto a nação aguarda por explicações e medidas para evitar futuros desastres.
+
+Fontes: [CNN](https://edition.cnn.com/us/live-news/plane-crash-dca-potomac-washington-dc-01-29-25/index.html), [Financial Times](https://www.ft.com/content/b38c55a4-6820-4848-ab20-19a4e42e8edd), [CNN Brasil](https://www.cnnbrasil.com.br/nacional/queda-de-aviao-em-vinhedo-e-o-6-acidente-mais-letal-da-historia-do-brasil/)
