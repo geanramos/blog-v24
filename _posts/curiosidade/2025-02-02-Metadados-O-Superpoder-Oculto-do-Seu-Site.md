@@ -1,6 +1,6 @@
 ---
 title: "Metadados: O Superpoder Oculto do Seu Site"
-date: 2025-01-30 05:01:00 -03:00
+date: 2025-02-02 09:01:00 -03:00
 description: "Descubra como os metadados podem turbinar seu site e encantar usuários."
 categories: code
 tags: [web developer]
