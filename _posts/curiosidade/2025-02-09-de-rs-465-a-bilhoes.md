@@ -3,7 +3,7 @@ title: "Como Um Salário Mínimo em 2009 Poderia Te Tornar Bilionário!"
 date: 2025-02-09 05:01:00 -03:00
 description: "Como um salário mínimo brasileiro em 2009 poderia render bilhões em 2025!"
 categories: wow
-tags: [Bitcoin, InvestimentoBitcoin, SalarioMinimo, Criptomoedas, TransformacaoFinanceira]
+tags: [wow]
 image: "https://i.imgur.com/ayvaQrX.jpeg"
 ---
 
