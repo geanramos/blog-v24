@@ -203,9 +203,9 @@
       page.url  | remove: 'index.html' | remove: '.html' | absolute_url
     }}",
   {% if page.image %}
-"image": "https://images.weserv.nl/?w=250&amp;h=250&amp;output=jpg&amp;q=90&amp;t=square&amp;url={{ page.image | absolute_url }}"
+"image": "{{ page.image | absolute_url }}"
   {% else %}
-"image": "https://images.weserv.nl/?w=250&amp;h=250&amp;output=jpg&amp;q=90&amp;t=square&amp;url={{ site.image | absolute_url }}"	  
+"image": "{{ site.image | absolute_url }}"	  
   {% endif %}
   }
   </script>
