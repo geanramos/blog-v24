@@ -56,7 +56,7 @@ layout: compress
             </span>
             <time hidden datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified">
               {{ page.date | date: "%d/%m/%Y" }}
-            </time>
+            </time><br><center>
 <!-- AddToAny BEGIN -->
 <script defer src="https://static.addtoany.com/menu/page.js"></script>
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
@@ -73,6 +73,7 @@ var a2a_config = a2a_config || {};
 a2a_config.locale = "pt-BR";
 </script>
 <!-- AddToAny END -->
+	    </center>
             <span hidden itemprop="publisher" itemtype="Person">{{ site.author.name }}</span>
             <span hidden itemprop="image">{{ page.image }}</span>
             <span hidden itemprop="mainEntityOfPage">{{ page.excerpt }}</span>
