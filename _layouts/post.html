@@ -43,7 +43,11 @@ layout: compress
                 href="/tags/#{{tag | downcase | slugify}}">{{tag | upcase }}</a>{% unless forloop.last %},{% endunless %}
               {% endfor %}
             </span>
-<!-- AddToAny BEGIN -->
+          </div>
+          {% endif %}
+          <h1 class="header-title" itemprop="headline">{{ page.title | escape }}</h1>
+          {% if page.date %}
+<center><!-- AddToAny BEGIN -->
 <script defer src="https://static.addtoany.com/menu/page.js"></script>
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
 <!--<a class="a2a_dd" href="https://www.addtoany.com/share"></a>-->
@@ -58,11 +62,7 @@ layout: compress
 var a2a_config = a2a_config || {};
 a2a_config.locale = "pt-BR";
 </script>
-<!-- AddToAny END -->
-          </div>
-          {% endif %}
-          <h1 class="header-title" itemprop="headline">{{ page.title | escape }}</h1>
-          {% if page.date %}
+<!-- AddToAny END --></center>
           <div class="post-meta">
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
               {{ page.date | date: "%d/%m/%Y" }}
