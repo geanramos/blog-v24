@@ -1,6 +1,7 @@
     // Array de URLs das imagens
     const imagens = [
       "https://geanramos.com.br/radio/img/ads-fastmoney.jpg",
+	    "https://geanramos.com.br/img/cafezinho-pix.jpg",
       "https://geanramos.com.br/radio/img/ads-fastmoney2.jpg",
 	  "https://geanramos.com.br/radio/img/features1.jpg",
 "https://geanramos.com.br/radio/img/features2.jpg",
@@ -31,6 +32,7 @@
     // Array de URLs dos links correspondentes
     const links = [
       "https://go.hotmart.com/A1939024g?ap=a838&src=radio",
+"https://geanramos.com.br/cafezinho",
       "https://go.hotmart.com/A1939024g?ap=a838&src=radio",
 	  "https://geanramos.com.br/radio/pagode.html",
 "https://geanramos.com.br/radio/pop.html",
