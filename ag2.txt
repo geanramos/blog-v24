@@ -14,7 +14,7 @@ Aqui estão os detalhes para criar o post perfeito:
 
 5. **Interação com o Público**: Ao final do post, faça uma chamada para ação (CTA), incentivando os leitores compartilharem e se inscreverem no canal de WhatsApp. texto sugerido "🌟 Receba as principais notícias direto no WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Inscreva-se no canal da Tisha</a> 📲"
 
-6. **Uso de Formatação**: Ao longo do texto, use **negrito**, *itálico* e `citações em blocos de código` para destacar pontos importantes e melhorar a leitura.
+6. **Uso de Formatação**: Ao longo do texto, use **negrito**, *itálico* e <blockquote> <p>citações em blocos de código</p> </blockquote> para destacar pontos importantes e melhorar a leitura.
 
 7. **Limites de Tamanho**: O post final deve ter entre 1.300 e 4.300 caracteres. Não deve ser nem muito curto, nem muito longo.
 
