@@ -5,6 +5,7 @@ description: "Quando foi a última vez que você fez algo só por gostar? Sem pr
 tags: [ohayo]
 image: "https://i1.wp.com/img.freepik.com/free-photo/satisfied-redhead-businesswoman-resting-after-work-day-dreaming-office-there-are-people-background_637285-64.jpg?resize=600,338"
 ---
+![Nem tudo precisa ser produtivo, só aproveite](https://cdn.jsdelivr.net/gh/geanramos/files/img/rising-tag.png)
 
 **✨ Nem tudo é sobre produtividade: o valor de fazer algo só porque gostamos ✨**
 
@@ -53,9 +54,8 @@ Apenas faça, por fazer. **Só por você.**
 
 **E depois me conta: como foi?** 💛
 
----
-
-**💭 FILOSOFANDO: Um coração quente sempre importa 💭**  
+ 
+![FILOSOFANDO: Um coração quente sempre importa](https://cdn.jsdelivr.net/gh/geanramos/files/img/filosofando.png)
 
 > _"Não há no mundo sensação mais agradável que a de um coração, depois de um período de indiferença, voltar a se abrir para um novo objeto."_  
 > — Goethe  
@@ -77,9 +77,8 @@ A verdade é que a vida não se resume a metas, dinheiro ou sucesso. **No final,
 
 💛 Que hoje você permita ao seu coração **sentir de novo.**  
 
----
 
- **💬 Desabafo de Peso**  
+![Desabafo de Peso](https://cdn.jsdelivr.net/gh/geanramos/files/img/desabafo.png)
 
 > Como posso lidar com a frustração de ouvir que 'é tudo questão de
 > prioridade' quando minha realidade é tão desigual? Trabalho em
@@ -110,5 +109,4 @@ Porque sem saber exatamente o que está te incomodando, você só fica presa nes
 
 No fim das contas, a vida não é só um grande jogo de prioridades. **Ela é um grande jogo de improviso.** E, às vezes, a melhor coisa que podemos fazer é simplesmente **seguir tentando** e encontrar pequenas brechas pra tornar tudo um pouco mais suportável — e quem sabe até divertido.  
 
-🦋 Quer desabafar mais? 
-Tô aqui pra te ajudar!
+🦋 Quer desabafar mais? [Tô aqui pra te ajudar!](https://forms.gle/zezBcJu3XH8MM3sq7)
