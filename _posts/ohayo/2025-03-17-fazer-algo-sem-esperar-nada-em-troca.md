@@ -2,7 +2,6 @@
 title: "A graça de fazer algo sem esperar nada em troca"
 date: 2025-03-17 14:01:00 -03:00
 description: "Quando foi a última vez que você fez algo só por gostar? Sem precisar monetizar ou transformar em meta? Bora falar sobre isso! 🦋"
-categories: combo
 tags: [ohayo]
 image: "https://i1.wp.com/img.freepik.com/free-photo/satisfied-redhead-businesswoman-resting-after-work-day-dreaming-office-there-are-people-background_637285-64.jpg?resize=600,338"
 ---
