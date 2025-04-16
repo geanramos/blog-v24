@@ -5,7 +5,7 @@ description: >- # site description
   Junte-se a nós para romances arrebatadores, reflexões profundas e muitos mais. 😊
 lang: pt-BR # default lang
 timezone: America/Belém # set your timezone
-image: https://geanramos.com.br/img/capa.jpg # This image used for Open Graph more info https://source.unsplash.com/random/600x400/?love-couple
+image: https://picsum.photos/600/338 # This image used for Open Graph more info https://picsum.photos/600/400
 repo: https://www.instagram.com/geanramus # site repo [optional]
 mode: light # default theme "dark" | "light"
 
