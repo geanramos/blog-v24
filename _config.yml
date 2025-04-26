@@ -23,8 +23,8 @@ author:
   avatar: https://github.com/geanramos.png # change with your own avatar
 
 # URL settings
-url: "http://dev.geanramos.com.br" #
-baseurl: /blog-v24
+url: "http://dev.geanramos.com.br/blog-v24" #
+baseurl: 
 permalink: /:title
 google_analytics: G-TZBPFV014K # leave it blank if not wish
 fb_appid:
